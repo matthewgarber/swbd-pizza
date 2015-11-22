@@ -20,7 +20,7 @@ lines = []
 for line in pizza_train.readlines():
     match = re.match("(.*?) \((.*?)\)", line)
     utt_id = match.group(2)
-    wav_path = "".join(["train/pizza/", utt_id, ".wav"])
+    wav_path = "".join(["train/pizza_8k/", utt_id, ".wav"])
     lines.append(" ".join([utt_id, wav_path + "\n"]))
 text.writelines(lines)
 
@@ -30,6 +30,6 @@ lines = []
 for line in pizza_dev.readlines():
     match = re.match("(.*?) \((.*?)\)", line)
     utt_id = match.group(2)
-    wav_path = "".join(["devtest/pizza/", utt_id, ".wav"])
+    wav_path = "".join(["devtest/pizza_8k/", utt_id, ".wav"])
     lines.append(" ".join([utt_id, wav_path + "\n"]))
 text.writelines(lines)
