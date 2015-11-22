@@ -11,5 +11,4 @@ for path in paths:
     filenames = os.listdir(oldpath)
     for filename in filenames:
         os.system(' '.join(['sox', oldpath + filename,
-                            '-c', '2','-r', '8000',
-                            newpath + filename]))
+                            '-r', '8000', newpath + filename, 'remix', '1']))

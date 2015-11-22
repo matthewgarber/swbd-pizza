@@ -30,13 +30,13 @@ for line_raw in train_raw.readlines():
     match_rec = re.match("(.*?) \((.*?)\)", line_raw)
     utt_id = match_utt.group(2)
     rec_id = match_rec.group(2)
-    wav = wave.open("train/pizza_8k/" + rec_id + ".wav")
+    wav = wave.open("train/pizza/" + rec_id + ".wav")
     length = str(round(((1.0 * wav.getnframes ()) / wav.getframerate ()) - 0.01, 2))
     speaker_match = re.match("[a-zA-Z]+", utt_id)
     if speaker_match:
         utt_id = "".join([speaker_match.group(0), "-", utt_id])
     else:
-        utt_id = "unk"
+        utt_id = "".join(["unk-", rec_id])
     lines.append(" ".join([utt_id, rec_id, "0.00", length + "\n"]))
     wav.close()
 segments.writelines(lines)
@@ -49,13 +49,13 @@ for line_raw in dev_raw.readlines():
     match_rec = re.match("(.*?) \((.*?)\)", line_raw)
     utt_id = match_utt.group(2)
     rec_id = match_rec.group(2)
-    wav = wave.open("devtest/pizza_8k/" + rec_id + ".wav")
+    wav = wave.open("devtest/pizza/" + rec_id + ".wav")
     length = str(round(((1.0 * wav.getnframes ()) / wav.getframerate ()) - 0.01, 2))
     speaker_match = re.match("[a-zA-Z]+", utt_id)
     if speaker_match:
         utt_id = "".join([speaker_match.group(0), "-", utt_id])
     else:
-        utt_id = "unk"
+        utt_id = "".join(["unk-", rec_id])
     lines.append(" ".join([utt_id, rec_id, "0.00", length + "\n"]))
     wav.close()
 segments.writelines(lines)

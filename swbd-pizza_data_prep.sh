@@ -78,7 +78,7 @@ awk '{print $1}' $tmpdir/wav.scp \
 
 ### Creates a file listing each utterance and its speaker and creates a file
 ### listing each speaker and the utterances they speak.
-awk '{spk=substr($1,4,6); print $1 " " spk}' $tmpdir/segments > $tmpdir/utt2spk \
+awk '{spk=substr($1,1,9); print $1 " " spk}' $tmpdir/segments > $tmpdir/utt2spk \
   || exit 1;
 
 # We assume each conversation side is a separate speaker. This is a very 
@@ -98,10 +98,22 @@ cat $pizza_tmp/text $tmpdir/text | sort -u > data/$datadir/text
 cat $pizza_tmp/segments $tmpdir/segments | sort -u > data/$datadir/segments
 cat $pizza_tmp/wav.scp $tmpdir/wav.scp | sort -u > data/$datadir/wav.scp
 cat $pizza_tmp/reco2file_and_channel $tmpdir/reco2file_and_channel | sort -u > data/$datadir/reco2file_and_channel
-cat $pizza_tmp/utt2spk $tmpdir/utt2spk | sort -u > data/$datadir/utt2spk
+cat $tmpdir/utt2spk $pizza_tmp/utt2spk | sort -u > data/$datadir/utt2spk
 
 sort -k 2 data/$datadir/utt2spk | scripts/utt2spk_to_spk2utt.pl > data/$datadir/spk2utt || exit 1;
 
+if [ $# == 2 ]; then # fix speaker IDs
+  find $2 -name conv.tab > $dir/conv.tab
+  local/swbd1_fix_speakerid.pl `cat $dir/conv.tab` data/train
+  utils/utt2spk_to_spk2utt.pl data/train/utt2spk.new > data/train/spk2utt.new
+  # patch files
+  for f in spk2utt utt2spk text segments; do
+    cp data/train/$f data/train/$f.old || exit 1;
+    cp data/train/$f.new data/train/$f || exit 1;
+  done
+  rm $dir/conv.tab
+fi 
+
 echo Switchboard and Pizza data preparation succeeded.
 
-#utils/fix_data_tmpdir.sh data/train
+#scripts/fix_data_tmpdir.sh data/$datadir
