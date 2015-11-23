@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Edited from the original used in the Kaldi Switchboard Tutorial.
+### Edited from the original used in the Kaldi Switchboard Tutorial.
+###
+### New comments are after "###".
 
 # Formatting the Mississippi State dictionary for use in Edinburgh. Differs 
 # from the one in Kaldi s5 recipe in that it uses lower-case --Arnab (Jan 2013)
@@ -87,6 +89,7 @@ python scripts/format_acronyms_dict.py -i $tmpdir/lexicon3.txt -o $tmpdir/lexico
   -L $srcdir/MSU_single_letter.txt -M $tmpdir/acronyms_raw.map
 cat $tmpdir/acronyms_raw.map | sort -u > $tmpdir/acronyms.map
 
+### Add the pizza dictionary.
 cat $srcdir/pizza_dict.txt $tmpdir/lexicon4.txt > $tmpdir/lexicon5.txt
 
 ( echo 'i ay' )| cat - $tmpdir/lexicon5.txt | tr '[A-Z]' '[a-z]' | sort -u > $tmpdir/lexicon_words.txt
@@ -102,4 +105,3 @@ cp $tmpdir/lexicon.txt $dir
 #popd >&/dev/null
 #rm $tmpdir/lexiconp.txt
 echo Prepared input dictionary and phone-sets for Pizza and Switchboard phase 1.
-
