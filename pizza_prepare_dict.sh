@@ -85,14 +85,10 @@ cat $tmpdir/lexicon1.txt $srcdir/MSU_single_letter.txt  > $tmpdir/lexicon2.txt |
 scripts/swbd1_map_words.pl -f 1 $tmpdir/lexicon2.txt | sort -u \
   > $tmpdir/lexicon3.txt || exit 1;
 
-python scripts/format_acronyms_dict.py -i $tmpdir/lexicon3.txt -o $tmpdir/lexicon4.txt \
-  -L $srcdir/MSU_single_letter.txt -M $tmpdir/acronyms_raw.map
-cat $tmpdir/acronyms_raw.map | sort -u > $tmpdir/acronyms.map
-
 ### Add the pizza dictionary.
-cat $srcdir/pizza_dict.txt $tmpdir/lexicon4.txt > $tmpdir/lexicon5.txt
+cat $srcdir/pizza_dict.txt $tmpdir/lexicon3.txt > $tmpdir/lexicon4.txt
 
-( echo 'i ay' )| cat - $tmpdir/lexicon5.txt | tr '[A-Z]' '[a-z]' | sort -u > $tmpdir/lexicon_words.txt
+( echo 'i ay' )| cat - $tmpdir/lexicon4.txt | tr '[A-Z]' '[a-z]' | sort -u > $tmpdir/lexicon_words.txt
 
 ( echo '<sil> sil'; echo '[vocalized-noise] spn'; echo '[noise] nsn'; \
   echo '[laughter] lau'; echo '<unk> spn' ) | cat - $tmpdir/lexicon_words.txt | sort -u \
