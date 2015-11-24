@@ -84,11 +84,11 @@ awk '{spk=substr($1,1,9); print $1 " " spk}' $tmpdir/segments > $tmpdir/utt2spk 
 # http://www.ldc.upenn.edu/Catalog/desc/addenda/swb-multi-annot.summary
 
 ### Create the text, segments, etc. files for the pizza data.
-python pizza_text.py
-python pizza_segments.py
-python pizza_wavscp.py
-python pizza_reco2file_and_channel.py
-python pizza_utt2spk.py
+python pizza_text.py $datadir
+python pizza_segments.py $datadir
+python pizza_wavscp.py $datadir
+python pizza_reco2file_and_channel.py $datadir
+python pizza_utt2spk.py $datadir
 
 ### Combine the temporary files for the pizza and SWBD data into their final form.
 pizza_tmp=data/$datadir/pizza_tmp
