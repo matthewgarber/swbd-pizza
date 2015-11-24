@@ -11,7 +11,7 @@ awk '{
        stime=$2; etime=$3;
        printf("%s-%s_%06.0f-%06.0f", 
               name, side, int(100*stime+0.5), int(100*etime+0.5));
-       for(i=4;i<=NF;i++) printf(" %s", $i); printf "\n"
+       for(i=4;i<=NF;i++) printf(" %s", tolower($i)); printf "\n"
 }' $set/transcript/swbd_train/*-trans.text > $dir/transcripts1_$set.txt;
 sort -c $dir/transcripts1_$set.txt || exit 1;
 cat $dir/transcripts1_$set.txt \
