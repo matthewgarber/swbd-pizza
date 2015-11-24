@@ -28,7 +28,7 @@ text.writelines(lines)
 text = open("data/devtest/pizza_tmp/reco2file_and_channel", "w")
 lines = []
 
-for line in pizza_train.readlines():
+for line in pizza_dev.readlines():
     match = re.match("(.*?) \((.*?)\)", line)
     rec_id = match.group(2)
     lines.append(" ".join([rec_id, rec_id, "A\n"]))
