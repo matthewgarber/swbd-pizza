@@ -8,7 +8,7 @@
 # Switchboard-1 training data preparation customized for Edinburgh
 # Author:  Arnab Ghoshal (Jan 2013)
 
-# To be run from one tmpdirectory above this script.
+### To be run from the current directory.
 
 ## The input is some tmpdirectory containing the switchboard-1 release 2
 ## corpus (LDC97S62).  Note: we don't make many assumptions about how
@@ -116,5 +116,3 @@ fi
 utils/fix_data_dir.sh data/train
 
 echo Switchboard and Pizza data preparation succeeded.
-
-#scripts/fix_data_tmpdir.sh data/$datadir

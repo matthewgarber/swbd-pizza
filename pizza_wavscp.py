@@ -1,3 +1,5 @@
+# Generates the wav.scp file for a given pizza data set.
+
 import os, re, sys
 
 # dataset should be 'train' or 'devtest'.

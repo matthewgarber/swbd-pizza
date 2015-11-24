@@ -1,3 +1,5 @@
+# Generates the segments file for a given pizza data set.
+
 import os, re, sys, wave
 
 # dataset should be 'train' or 'devtest'.
