@@ -1,16 +1,3102 @@
 
 \data\
-ngram 1=3
-ngram 2=0
-ngram 3=0
+ngram 1=319
+ngram 2=1629
+ngram 3=1141
 
 \1-grams:
--0.30103	-text
--0.30103	</s>
--99	<s>
+-1.521328	-order
+-3.721357	9	-0.2913536
+-1.080876	</s>
+-99	<s>	-1.060212
+-1.363422	a	-0.7777956
+-3.721357	add	-0.2975513
+-4.022387	additional	-0.2984236
+-3.323417	afternoon	-0.319601
+-4.022387	ah	-0.2988798
+-4.022387	ahhh	-0.2990041
+-2.980994	alfredo	-0.6638618
+-3.545266	all	-0.2574622
+-3.545266	also	-0.3734196
+-3.177289	am	-0.6528825
+-4.022387	america	-0.2862626
+-3.420327	america's	-0.6987225
+-2.943206	american	-1.099176
+-4.022387	americas	-0.3007824
+-4.022387	america’s	-0.3007824
+-2.359629	an	-0.7703702
+-3.420327	anchovies	-0.3150988
+-4.022387	anchovy	-0.2905092
+-1.352141	and	-0.5841135
+-4.022387	another	-0.2746727
+-4.022387	any	-0.2999562
+-4.022387	are	-0.3007412
+-3.721357	artisan	-0.450764
+-3.177289	asiago	-0.3613295
+-2.058599	bacon	-0.6951197
+-4.022387	bacon,	-0.3009887
+-2.624447	banana	-0.9651004
+-3.244236	barbecue	-0.4406095
+-3.177289	barbeque	-0.6436626
+-3.721357	basil	-0.4394864
+-2.846296	bbq	-0.7416395
+-2.350289	beef	-0.604535
+-3.721357	beef,	-0.2802035
+-2.607414	black	-1.429379
+-3.244236	blue	-0.8303307
+-4.022387	bring	-0.2980084
+-2.700168	brooklyn	-1.341556
+-4.022387	brooklyn-style	-0.2956762
+-4.022387	bufalo	-0.2963021
+-2.660659	buffalo	-1.375483
+-4.022387	build	-0.3009887
+-3.721357	burger	-0.2634851
+-4.022387	bye	-0.2633951
+-3.022387	cali	-1.036665
+-4.022387	calling	-0.2941284
+-1.789391	can	-1.741171
+-3.068145	carbonara	-0.4059502
+-2.818267	cheddar	-0.5449992
+-4.022387	chees	-0.2746727
+-1.475845	cheese	-0.9803951
+-3.323417	cheese,	-0.275767
+-2.980994	cheeseburger	-0.6296141
+-3.721357	cheeseless	-0.2680927
+-1.965482	chicken	-0.7756721
+-3.420327	chicken,	-0.4572457
+-2.442604	could	-1.279077
+-2.876259	crunchy	-1.174811
+-2.332191	crust	-0.4236776
+-4.022387	day	-0.299708
+-2.908444	deep	-1.145591
+-4.022387	deliver	-0.2991284
+-4.022387	delivery	-0.2633951
+-3.244236	deluxe	-0.8434036
+-2.642176	diced	-0.9527136
+-4.022387	dipping	-0.2962604
+-2.908444	dish	-0.5835425
+-4.022387	done	-0.2633951
+-3.721357	doubel	-0.4751783
+-2.607414	double	-0.4885439
+-3.545266	dozen	-0.2709754
+-3.545266	dressing	-0.5644252
+-3.119297	eight	-0.5421448
+-3.545266	eleven	-0.2867744
+-3.244236	evening	-0.3653585
+-4.022387	excuse	-0.2980084
+-1.867051	extra	-0.8655025
+-3.244236	extra-large	-0.2902556
+-3.545266	extravaganza	-0.6003656
+-4.022387	extravaganzza	-0.2993355
+-3.244236	favorite	-0.573902
+-2.409603	feast	-0.6960528
+-4.022387	feasts	-0.2633951
+-2.409603	feta	-0.5102793
+-2.876259	fiery	-1.174562
+-4.022387	fifteen	-0.3003695
+-2.559989	five	-0.3886666
+-4.022387	five,	-0.2998322
+-3.420327	for	-0.2982576
+-2.642176	four	-0.4555441
+-3.721357	fourteen	-0.4762955
+-2.660659	free	-0.4819901
+-3.721357	fries	-0.4394864
+-2.876259	garlic	-0.3614775
+-4.022387	garlic,	-0.3009475
+-1.908444	get	-0.8279221
+-3.721357	getting	-0.2756358
+-4.022387	gimme	-0.2991284
+-2.306384	give	-1.428259
+-2.660659	gluten	-1.379261
+-3.177289	going	-0.8961884
+-3.323417	gonna	-0.4065679
+-2.876259	good	-0.5792057
+-4.022387	good-bye	-0.2633951
+-2.490908	green	-1.086144
+-3.244236	grilled	-0.5954097
+-3.068145	habanero	-0.9952304
+-2.818267	half	-0.2793273
+-4.022387	half,	-0.281284
+-2.274199	ham	-0.6973054
+-3.721357	hame	-0.2740148
+-2.660659	hand	-1.09596
+-3.068145	handmade	-0.9994634
+-4.022387	handtosssed	-0.2746727
+-4.022387	has	-0.2996253
+-1.755215	have	-1.014316
+-3.545266	hawaii	-0.3603951
+-2.454185	hawaiian	-0.6354154
+-3.420327	hearty	-0.6985161
+-2.490908	hello	-0.5966811
+-3.119297	hey	-0.3308364
+-2.135896	hi	-0.8478293
+-3.545266	hi,	-0.369826
+-4.022387	hi,i	-0.300865
+-4.022387	homemade	-0.3004934
+-2.980994	honolulu	-1.077652
+-2.517237	hot	-1.225638
+-4.022387	hu	-0.295133
+-1.333078	i	-1.619763
+-2.022387	i'd	-1.995193
+-2.818267	i'll	-0.7882284
+-3.177289	i'm	-0.4389613
+-3.545266	id	-0.5929316
+-4.022387	ill	-0.3008237
+-4.022387	im	-0.3008237
+-2.721357	inch	-0.4488002
+-3.721357	inches	-0.293793
+-3.721357	inspired	-0.4768324
+-3.721357	is	-0.457893
+-3.022387	it	-0.7189379
+-2.341146	italian	-1.110756
+-4.022387	itallian	-0.2979669
+-3.244236	i’d	-0.8359696
+-2.846296	jalapeno	-0.6006605
+-3.721357	jalapenos	-0.4394864
+-4.022387	jalapenosum	-0.2994598
+-3.721357	just	-0.2934573
+-3.721357	kicker	-0.4757993
+-1.521328	large	-0.6447656
+-3.545266	larges	-0.272828
+-4.022387	left	-0.300865
+-2.818267	let	-1.227427
+-4.022387	let's	-0.3009887
+-2.791938	light	-0.39633
+-1.681943	like	-1.171506
+-4.022387	looking	-0.2941284
+-3.068145	mango	-0.9996286
+-2.980994	marinara	-1.074412
+-2.332191	may	-1.385584
+-2.159064	me	-0.6811123
+-4.022387	meat	-0.3009887
+-3.721357	meatza	-0.2887731
+-3.323417	meatzza	-0.5423322
+-1.789391	medium	-0.4677764
+-4.022387	mediums	-0.295133
+-3.177289	memphis	-0.6523455
+-4.022387	morning	-0.2803766
+-4.022387	morning,	-0.2803766
+-4.022387	much	-0.2633951
+-4.022387	murshroom	-0.2746727
+-2.607414	mushroom	-0.5135207
+-2.289993	mushrooms	-0.6937765
+-3.420327	mushrooms,	-0.2711522
+-4.022387	mushrooms.	-0.2633951
+-3.721357	my	-0.4710988
+-3.721357	need	-0.2945891
+-3.323417	nine	-0.3237163
+-2.791938	no	-0.5561222
+-3.545266	normal	-0.2972601
+-3.721357	of	-0.4769975
+-4.022387	oh	-0.281284
+-3.545266	olive	-0.3603951
+-2.341146	olives	-0.6610598
+-4.022387	olives,	-0.281284
+-2.454185	on	-0.6094844
+-1.870099	one	-0.5901782
+-2.908444	onion	-0.3426727
+-2.223047	onions	-0.7162448
+-3.721357	onions,	-0.2812408
+-1.861019	order	-0.8035902
+-3.244236	other	-0.2206013
+-4.022387	own	-0.2746727
+-2.721357	pacific	-1.32098
+-2.908444	pan	-0.4922403
+-3.068145	parmesan	-0.4353585
+-4.022387	parmesean	-0.2862626
+-3.244236	pasta	-0.8403285
+-3.721357	peperoni	-0.2845095
+-2.743634	pepper	-0.6193249
+-1.911797	pepperoni	-0.959028
+-4.022387	pepperoni,	-0.2990456
+-2.035615	peppers	-0.6802866
+-3.545266	peppers,	-0.3780213
+-2.369175	philly	-1.187342
+-3.177289	pie	-0.4385107
+-3.323417	pies	-0.3564224
+-4.022387	pies,	-0.295133
+-2.420327	pineapple	-0.7207507
+-3.177289	pineapples	-0.370367
+-1.229995	pizza	-1.438076
+-3.721357	pizza,	-0.2745412
+-4.022387	pizza.	-0.300865
+-1.620987	pizzas	-1.198286
+-4.022387	pizzas,	-0.295133
+-4.022387	pizzza	-0.2791637
+-4.022387	place	-0.2991284
+-2.980994	plain	-0.5355859
+-1.799671	please	-1.095179
+-4.022387	please.	-0.2633951
+-3.177289	premium	-0.8983622
+-4.022387	provologne	-0.2862626
+-2.846296	provolone	-0.5879455
+-2.846296	ranch	-0.3913914
+-2.660659	red	-0.9329157
+-3.545266	regular	-0.3558745
+-4.022387	right	-0.300865
+-2.607414	roasted	-0.9830437
+-3.721357	robust	-0.4770388
+-2.503873	salami	-0.6452526
+-3.545266	salami,	-0.3764206
+-1.961689	sauce	-0.8630297
+-3.545266	sauce,	-0.3977337
+-4.022387	sauceless	-0.2746727
+-2.153155	sausage	-0.7404108
+-4.022387	sausage,	-0.2996253
+-4.022387	sausageand	-0.2987969
+-4.022387	sausauge,	-0.2991699
+-4.022387	sausuage	-0.2940865
+-2.943206	seven	-0.3502027
+-4.022387	shake	-0.2633951
+-2.846296	shredded	-0.6734643
+-3.420327	side	-0.4566408
+-2.517237	six	-0.5010448
+-3.323417	sixteen	-0.4099192
+-2.700168	sliced	-0.8974019
+-1.702241	small	-0.622581
+-4.022387	smalls	-0.281284
+-4.022387	so	-0.3009887
+-4.022387	some	-0.2990456
+-4.022387	souce	-0.2633951
+-4.022387	spicy	-0.299087
+-2.258959	spinach	-0.7988364
+-2.359629	steak	-0.7381754
+-4.022387	steak,	-0.281284
+-2.700168	style	-0.3820463
+-4.022387	suasuage	-0.281284
+-3.323417	sweet	-0.7777799
+-3.323417	take	-0.2893244
+-4.022387	takeout	-0.2633951
+-2.679965	ten	-0.4523185
+-2.721357	thank	-1.32098
+-2.791938	thanks	-0.9400437
+-3.721357	that	-0.2932894
+-3.545266	that's	-0.3974034
+-4.022387	that’s	-0.3006173
+-2.700168	the	-0.3749699
+-3.545266	them	-0.336404
+-3.545266	then	-0.5828317
+-4.022387	there	-0.295133
+-2.531025	thin	-1.188974
+-4.022387	thing	-0.3003282
+-3.545266	thirteen	-0.3785392
+-3.420327	thirty	-0.272784
+-2.216207	three	-0.4664736
+-1.802279	to	-1.51415
+-4.022387	today	-0.3002042
+-3.177289	tomato	-0.3728737
+-2.559989	tomatoes	-0.5067968
+-4.022387	tomatos	-0.281284
+-2.876259	top	-0.5852126
+-3.545266	topping	-0.3603951
+-4.022387	toppings,	-0.2803766
+-2.679965	tossed	-0.3066272
+-4.022387	tosted	-0.2746727
+-2.980994	trio	-0.3497205
+-3.244236	triple	-0.3781077
+-4.022387	try	-0.3001629
+-3.177289	tuscan	-0.9017267
+-3.068145	twelve	-0.7394543
+-3.177289	twenty	-0.371588
+-1.922017	two	-0.7017978
+-3.244236	uh	-0.3195575
+-2.908444	ultimate	-0.8696239
+-2.943206	um	-0.2751457
+-4.022387	um,	-0.3009887
+-3.721357	us	-0.4718927
+-4.022387	veggid	-0.2633951
+-2.545266	veggie	-0.7573104
+-4.022387	wait	-0.2818017
+-3.420327	wanna	-0.4515959
+-1.936027	want	-0.9662523
+-3.177289	we	-0.3569112
+-4.022387	we're	-0.3008237
+-4.022387	well	-0.2968855
+-2.846296	white	-0.9245242
+-4.022387	whole	-0.3009887
+-3.721357	will	-0.4710988
+-2.846296	wisconsin	-1.202798
+-1.308897	with	-0.7088539
+-3.323417	without	-0.2809386
+-1.973169	would	-1.566456
+-3.420327	x	-0.6856937
+-4.022387	yeah	-0.3007824
+-2.545266	you	-0.7914273
+-4.022387	your	-0.3009887
+-4.022387	za	-0.2993355
 
 \2-grams:
+-0.60206	9 hand
+-0.60206	9 small
+-1.690196	<s> a	0.07798234
+-2.96895	<s> ah
+-2.96895	<s> ahhh
+-2.36689	<s> an	0.1383027
+-2.96895	<s> bring
+-0.8259349	<s> can	0.08826089
+-1.506552	<s> could	0.1106983
+-2.66792	<s> eight	-0.3388186
+-2.96895	<s> eleven
+-2.96895	<s> excuse
+-2.26998	<s> extra-large
+-2.491828	<s> five
+-2.36689	<s> four
+-2.96895	<s> get
+-1.491828	<s> give	0.2272438
+-1.822822	<s> good	0
+-1.437471	<s> hello	0
+-2.06586	<s> hey	0
+-1.099718	<s> hi	0.01506364
+-2.491828	<s> hi,	0
+-2.96895	<s> hi,i
+-2.96895	<s> hu
+-0.6789151	<s> i	-1.172428
+-1.088136	<s> i'd	0.1178306
+-1.855006	<s> i'll	0.0746336
+-2.190799	<s> i'm	-0.08894113
+-2.491828	<s> id	0
+-2.96895	<s> ill
+-2.96895	<s> im
+-2.26998	<s> i’d	0.06694674
+-2.123852	<s> large	-0.06316015
+-1.822822	<s> let	0.05435765
+-2.96895	<s> let's
+-1.491828	<s> may	0.07748151
+-2.190799	<s> medium
+-2.96895	<s> memphis
+-2.66792	<s> my	0
+-2.96895	<s> normal
+-1.278754	<s> one	-0.2476727
+-1.96895	<s> please	-1.008457
+-2.36689	<s> seven
+-2.66792	<s> six
+-2.123852	<s> small	-0.06568421
+-2.36689	<s> ten
+-2.491828	<s> thirteen	0
+-2.96895	<s> thirty
+-1.927557	<s> three	-0.002460599
+-2.96895	<s> twenty
+-1.607222	<s> two	0.009166926
+-2.36689	<s> uh
+-2.96895	<s> ultimate
+-2.06586	<s> um	-0.04106627
+-2.96895	<s> um,
+-2.36689	<s> we	-0.0669468
+-2.96895	<s> we're
+-2.96895	<s> well
+-2.96895	<s> yeah
+-2.70927	a a
+-2.40824	a bacon
+-2.232149	a brooklyn	0.7403627
+-2.0103	a buffalo	0.60206
+-2.70927	a cali
+-2.40824	a cheddar	-0.1962946
+-1.80618	a cheese	-0.2959957
+-1.864172	a chicken	-0.1002637
+-2.10721	a crunchy	0.4771213
+-2.40824	a deep	0.6690068
+-2.70927	a deluxe
+-2.70927	a double
+-2.232149	a dozen
+-2.10721	a extra	-0.4137343
+-2.70927	a feta
+-2.40824	a fiery	0.6989701
+-2.40824	a fourteen	0
+-2.70927	a gluten
+-2.40824	a ham
+-2.10721	a hand	0.2218487
+-2.70927	a handmade
+-2.0103	a hawaiian	-0.4471581
+-2.70927	a homemade
+-2.10721	a honolulu	0.3802112
+-2.40824	a hot	0.5772364
+-2.40824	a italian	0.393784
+-0.6158483	a large	-0.09730145
+-2.70927	a meatzza
+-0.8519375	a medium	-0.09361094
+-2.232149	a memphis	-0.1249388
+-2.70927	a mushroom
+-2.70927	a no
+-2.40824	a pacific	0.845098
+-1.864172	a pepperoni	-0.2994762
+-1.864172	a philly	0.4259688
+-2.70927	a pie
+-1.630089	a pizza	0.1473228
+-2.10721	a plain	-0.1663314
+-2.40824	a regular
+-2.70927	a salami
+-2.70927	a sauceless
+-2.40824	a sausage	-0.3737772
+-2.70927	a shake
+-2.70927	a sixteen
+-0.6678773	a small	-0.06082126
+-2.10721	a spinach	0.1820542
+-1.80618	a ten	-0.39794
+-2.70927	a thin
+-2.70927	a tuscan
+-1.864172	a twelve	-0.3388186
+-2.70927	a two
+-2.70927	a ultimate
+-2.40824	a um
+-2.70927	a veggie
+-2.70927	a white
+-2.0103	a wisconsin	0.4259688
+-0.60206	add double
+-0.60206	add spinach
+-0.30103	additional onions
+-0.9542425	afternoon can
+-0.9542425	afternoon give
+-0.9542425	afternoon i
+-0.6532125	afternoon may	0.628389
+-0.30103	ah give
+-0.30103	ahhh may
+-0.3679768	alfredo pasta	0
+-0.544068	alfredo sauce	0.1549019
+-1.146128	alfredo sauce,
+-0.7781513	all </s>
+-0.7781513	all of
+-0.7781513	all pepperoni
+-0.39794	also a
+-0.69897	also want
+-0.9542425	am done
+-0.1760913	am going	0.05799198
+-0.30103	america cheese
+-0.09691001	america's favorite	-0.2730013
+-0.03476211	american cheese	0.2642496
+-0.30103	americas favorite
+-0.30103	america’s favorite
+-1.740363	an america
+-1.740363	an american
+-0.1962947	an extra	-1.271067
+-1.740363	an extra-large
+-1.740363	an extravaganza
+-1.439333	an italian	0.393784
+-1.740363	an order
+-1.740363	an ultimate
+-1.263241	an x	0.09691
+-0.544068	anchovies </s>
+-0.845098	anchovies please
+-0.845098	anchovies to
+-0.30103	anchovy pizzas
+-1.15401	and a	0.05668733
+-2.267954	and alfredo	-0.359022
+-2.444045	and also	-0.2552725
+-2.267954	and an	0.2174839
+-2.444045	and anchovies
+-2.745075	and another
+-1.364864	and bacon	-0.40198
+-2.143015	and banana	0.447158
+-2.444045	and barbeque	-0.1249388
+-2.444045	and basil	0
+-2.444045	and bbq	-0.30103
+-1.745075	and beef	0.0008474141
+-1.841985	and black	0.4771212
+-2.143015	and blue	0.146128
+-2.745075	and carbonara
+-2.745075	and cheddar
+-2.444045	and cheese	-0.396088
+-1.841985	and chicken	-0.2511381
+-1.841985	and diced	-0.30103
+-2.046105	and double	-0.1130395
+-2.745075	and eight
+-1.703682	and extra	-0.1897259
+-1.330101	and feta	0.00560385
+-2.745075	and four
+-2.745075	and fries
+-1.966924	and garlic	-0.02555411
+-1.631131	and green	-0.4230244
+-2.143015	and grilled	0.1249387
+-2.444045	and half
+-1.745075	and ham	-0.02555412
+-2.143015	and hearty	0
+-1.703682	and hot	0.4175355
+-2.444045	and i
+-2.745075	and i'd
+-2.444045	and italian	0.393784
+-2.143015	and jalapeno	0.05344431
+-2.444045	and jalapenos	0
+-2.745075	and jalapenosum
+-2.444045	and kicker	0
+-1.899977	and light
+-2.444045	and mango	0.5228788
+-2.745075	and marinara
+-2.745075	and medium
+-2.267954	and mushroom
+-1.631131	and mushrooms	-0.269367
+-2.745075	and mushrooms.
+-2.444045	and olive
+-1.841985	and olives	-0.1587783
+-1.444045	and one	-0.1306339
+-1.966924	and onion	-0.30103
+-1.598947	and onions	-0.2253093
+-2.745075	and onions,
+-1.631131	and pepper	-0.49485
+-1.745075	and pepperoni	-0.1026623
+-1.899977	and peppers	-0.3067071
+-2.046105	and philly	-0.4191293
+-1.665894	and pineapple	-0.1852346
+-2.046105	and pineapples	-0.1716821
+-2.745075	and please
+-2.745075	and premium
+-2.745075	and provologne
+-2.745075	and provolone
+-2.444045	and ranch	-0.4134522
+-1.665894	and roasted	0.2863068
+-2.745075	and robust
+-1.790832	and salami	-0.2552725
+-2.745075	and salami,
+-2.745075	and sauce
+-2.143015	and sausage	-0.6446124
+-2.745075	and sausuage
+-1.899977	and shredded	0.1026624
+-2.745075	and six
+-2.046105	and sliced	0.2340832
+-2.745075	and some
+-1.665894	and spinach	-0.2733771
+-2.745075	and steak
+-2.143015	and sweet	0.07918125
+-2.745075	and that's
+-2.745075	and that’s
+-2.267954	and the	-0.5177391
+-2.267954	and then	0
+-1.790832	and three	-0.09094708
+-2.745075	and tomato
+-2.267954	and tomatoes	-0.1622631
+-2.046105	and triple	0.04575747
+-1.841985	and two	-0.1132791
+-2.745075	and white
+-2.745075	and without
+-0.30103	another pizza
+-0.30103	any mushroom
+-0.30103	are going
+-0.1760913	artisan pizza	-0.449683
+-1.041393	asiago </s>
+-1.041393	asiago and
+-0.7403627	asiago cheese
+-0.5642715	asiago on	-0.09691003
+-0.9502025	bacon </s>
+-0.7506302	bacon and	-0.0307011
+-2.029384	bacon beef
+-1.184286	bacon carbonara	0.07255068
+-1.728354	bacon cheese	-0.474805
+-0.9879911	bacon cheeseburger	0
+-1.728354	bacon chicken
+-2.029384	bacon ham
+-2.029384	bacon pepperoni
+-0.7989349	bacon pizza	0.177286
+-1.427324	bacon pizzas	-0.151942
+-1.728354	bacon please
+-0.9879911	bacon ranch	-0.1047353
+-2.029384	bacon roasted
+-2.029384	bacon sausage
+-0.30103	bacon, olives,
+-1.447158	banana pepper
+-0.0854302	banana peppers	-0.00207299
+-1.447158	banana peppers,
+-0.6532125	barbecue chicken
+-0.6532125	barbecue pizza	-0.3271584
+-0.6532125	barbecue sauce
+-0.6532125	barbeque chicken
+-0.2552725	barbeque sauce	-0.07032654
+-0.1760913	basil </s>
+-0.3521825	bbq chicken	-0.2186047
+-1.255273	bbq pizza
+-0.4771213	bbq sauce	0.146128
+-0.8016323	beef </s>
+-0.6097468	beef and	-0.1589448
+-1.755875	beef on
+-1.454845	beef pepperoni	-0.3954512
+-0.6097468	beef pizza	0.318418
+-1.278754	beef pizzas	0.08082321
+-1.755875	beef pizzza
+-1.755875	beef please
+-1.755875	beef salami
+-1.755875	beef with
+-0.60206	beef, and
+-0.60206	beef, banana
+-0.01639042	black olives	-0.08850941
+-0.06694679	blue cheese	-0.5154228
+-0.30103	bring me
+-0.02020339	brooklyn style	0
+-0.30103	brooklyn-style pepperoni
+-0.30103	bufalo chicken
+-0.01848341	buffalo chicken	-0.466902
+-0.30103	build your
+-0.60206	burger pizza
+-0.60206	burger pizzas
+-0.30103	bye </s>
+-0.04139268	cali chicken	-1.002685
+-0.30103	calling to
+-0.02836164	can i	-1.156428
+-2.240549	can we
+-1.395451	can you	-0.30103
+-0.8129134	carbonara </s>
+-1.113943	carbonara and
+-1.113943	carbonara large
+-0.4149733	carbonara pizza	-0.05415709
+-1.322219	cheddar </s>
+-1.021189	cheddar and
+-0.3222193	cheddar cheese	0.2014587
+-1.322219	cheddar cheese,
+-1.021189	cheddar on
+-0.30103	chees pizza
+-0.7690079	cheese </s>
+-1.160215	cheese and	-0.08187733
+-2.274158	cheese burger
+-2.575188	cheese cheddar
+-2.575188	cheese cheese
+-2.575188	cheese double
+-2.575188	cheese extra
+-2.575188	cheese mushrooms
+-2.575188	cheese on
+-2.575188	cheese one
+-2.575188	cheese pepperoni
+-0.3904964	cheese pizza	0.01373708
+-2.575188	cheese pizza.
+-0.7827961	cheese pizzas	0.1962167
+-1.876218	cheese please	-0.2911592
+-1.973128	cheese sauce	-0.39794
+-2.575188	cheese shredded
+-2.575188	cheese spinach
+-1.344739	cheese steak	-0.1129968
+-2.274158	cheese thank	0.845098
+-2.274158	cheese thanks	0.3245111
+-2.575188	cheese that's
+-2.575188	cheese thin
+-2.274158	cheese with
+-1	cheese, and
+-1	cheese, chicken,
+-1	cheese, italian
+-1	cheese, no
+-1	cheese, spinach
+-0.1918855	cheeseburger feast	0.02802871
+-1.146128	cheeseburger pizza
+-1.146128	cheeseburger pizzas
+-0.60206	cheeseless pizzas
+-0.60206	cheeseless with
+-1.069197	chicken </s>
+-2.11059	chicken american
+-0.6054397	chicken and	-0.2625617
+-1.069197	chicken bacon	-1.032069
+-2.11059	chicken black
+-2.11059	chicken carbonara
+-2.11059	chicken ham
+-1.633469	chicken on
+-0.6054397	chicken pizza	0.1219944
+-0.9064697	chicken pizzas	0.1600045
+-2.11059	chicken please
+-2.11059	chicken spinach
+-2.11059	chicken thank
+-2.11059	chicken thanks
+-2.11059	chicken with
+-0.30103	chicken, and
+-0.7781513	chicken, salami,
+-0.05799195	could i	-0.6982745
+-1.124939	could you	-0.1962947
+-0.02996322	crunchy thin	0.3143939
+-0.9610819	crust </s>
+-1.80618	crust a
+-1.329059	crust and
+-1.80618	crust cheese
+-1.80618	crust honolulu
+-1.80618	crust jalapeno
+-1.80618	crust marinara
+-1.50515	crust pepperoni
+-0.50515	crust pizza	0.119294
+-0.9610819	crust pizzas	-0.1744493
+-1.80618	crust please
+-1.80618	crust salami
+-1.80618	crust spinach
+-1.80618	crust thank
+-1.80618	crust with
+-0.30103	day six
+-0.03218468	deep dish	0
+-0.30103	deliver an
+-0.30103	delivery </s>
+-0.06694679	deluxe feast	0.04441915
+-1.130334	diced tomato
+-0.1091445	diced tomatoes	0.02962247
+-1.431364	diced tomatos
+-0.30103	dipping sauce
+-1.230449	dish hot
+-1.230449	dish pepperoni
+-0.3273589	dish pizza	-0.2058776
+-0.7533277	dish pizzas	0.08082321
+-0.30103	done </s>
+-0.1760913	doubel beef	-0.3547149
+-1.568202	double beef
+-0.526809	double cheese	0.07276076
+-1.568202	double chicken
+-0.9661418	double ham	-0.225779
+-1.568202	double jalapeno
+-1.267172	double mushroom	-0.4227636
+-1.568202	double onions
+-1.568202	double philly
+-1.267172	double pineapple	-0.3235373
+-1.568202	double sauce
+-1.568202	double white
+-0.7781513	dozen cheese
+-0.7781513	dozen extra
+-0.7781513	dozen small
+-0.1249387	dressing </s>
+-0.7403627	eight extra	-0.1918855
+-0.5642715	eight medium	-0.2179185
+-0.5642715	eight small	-0.2115079
+-0.7781513	eleven double
+-0.7781513	eleven extra
+-0.7781513	eleven medium
+-1	evening can
+-1	evening give
+-0.5228788	evening i	-0.1128283
+-1	evening may
+-0.30103	excuse me
+-2.209515	extra american
+-1.908485	extra bacon
+-1.908485	extra bbq	-0.30103
+-2.209515	extra beef
+-2.209515	extra blue
+-1.908485	extra cheddar
+-0.704365	extra cheese	0.04723597
+-2.209515	extra cheese,
+-2.209515	extra chicken
+-2.209515	extra feta
+-2.209515	extra hot
+-0.3174204	extra large	0.03256875
+-2.209515	extra olives
+-1.732394	extra pepperoni	-0.2124413
+-2.209515	extra pineapple
+-1.306425	extra sauce	0.06694677
+-1.908485	extra shredded
+-1.732394	extra spinach	-0.2016454
+-1.908485	extra white	0.2762064
+-1.079181	extra-large hand
+-1.079181	extra-large pepperoni
+-1.079181	extra-large philly
+-1.079181	extra-large premium
+-1.079181	extra-large salami
+-1.079181	extra-large sliced
+-0.1249387	extravaganza feast
+-0.30103	extravaganzza feast
+-0.20412	favorite feast	0.02802871
+-0.90309	favorite pizza
+-0.7269987	feast </s>
+-1.380211	feast and
+-0.5672979	feast pizza	0.5658145
+-1.079181	feast pizzas	0.1565439
+-1.20412	feast please	-0.115068
+-0.7269987	feast with	-0.1373096
+-1.681241	feast without
+-0.30103	feasts </s>
+-1.716003	feta </s>
+-1.238882	feta and
+-1.716003	feta artisan
+-0.5118834	feta cheese	-0.02578506
+-1.414973	feta cheese,
+-1.716003	feta gluten
+-1.716003	feta on
+-0.7617608	feta pizza	-0.2302483
+-1.017033	feta pizzas	-0.05503196
+-1.716003	feta please
+-1.716003	feta with
+-0.02996322	fiery hawaiian	0.2640464
+-0.30103	fifteen cheddar
+-1.643453	five bacon
+-1.643453	five buffalo
+-1.643453	five cheese
+-1.643453	five deep
+-1.166331	five extra	-0.3168243
+-1.643453	five gluten
+-0.9444827	five large	-0.1753164
+-1.643453	five larges
+-1.643453	five meatza
+-1.041393	five medium
+-1.342423	five mushroom
+-1.643453	five philly
+-1.643453	five pizzas
+-1.643453	five sausage
+-0.9444827	five small	-0.03705805
+-0.30103	five, five
+-0.90309	for delivery
+-0.90309	for takeout
+-0.90309	for three
+-0.90309	for toppings,
+-1.531479	four bacon
+-1.531479	four brooklyn
+-1.531479	four cheese
+-0.9294189	four extra	-0.4137343
+-1.531479	four hawaii
+-0.8325089	four large
+-0.9294189	four medium	-0.07393292
+-1.531479	four pepperoni
+-1.531479	four pizzas
+-0.8325089	four small	-0.09705598
+-0.1760913	fourteen inch
+-1.50515	free bacon
+-1.50515	free buffalo
+-1.50515	free cheese
+-0.50515	free crust	0.04622175
+-1.50515	free extra
+-1.50515	free pie
+-0.90309	free pizza	-0.3819689
+-1.028029	free pizzas	-0.2993881
+-1.50515	free tomato
+-0.1760913	fries </s>
+-0.8653014	garlic </s>
+-0.6434527	garlic and
+-1.342423	garlic dipping
+-1.342423	garlic on
+-1.342423	garlic onions
+-1.342423	garlic please
+-1.342423	garlic sauce
+-1.342423	garlic sauce,
+-0.30103	garlic, beef,
+-2.176091	get 9
+-0.3565473	get a	0.08995095
+-1.574031	get an	-0.2596373
+-2.176091	get eleven
+-2.176091	get fifteen
+-1.477121	get five
+-2.176091	get four
+-1.574031	get me	0.01087028
+-2.176091	get nine
+-1.221849	get one	-0.1122268
+-1.875061	get seven
+-1.875061	get six
+-1.875061	get ten
+-1.875061	get the
+-1.875061	get thirty
+-1.477121	get three	-0.1169698
+-2.176091	get twenty
+-0.8973377	get two	0.01300457
+-2.176091	get um
+-2.176091	get us
+-0.60206	getting a
+-0.60206	getting one
+-0.30103	gimme an
+-0.02482358	give me	-0.2650753
+-1.732394	give us
+-0.01848341	gluten free	0
+-0.05799195	going to	-0.254849
+-0.90309	gonna get
+-0.60206	gonna have
+-0.60206	gonna order
+-0.5797836	good afternoon	0
+-1.278754	good day
+-0.5006024	good evening	0
+-1.278754	good morning
+-1.278754	good morning,
+-0.30103	good-bye </s>
+-1.09108	green pepper
+-0.09108047	green peppers	0.04376653
+-1.568202	green peppers,
+-0.30103	grilled onions	0.03873713
+-0.60206	grilled peppers	-0.3067071
+-0.04575749	habanero sauce	-0.1333393
+-1.130334	half </s>
+-1.431364	half a
+-1.431364	half and
+-1.431364	half chicken
+-1.130334	half mushroom
+-1.431364	half mushrooms
+-1.130334	half onion
+-1.431364	half onions
+-1.431364	half pepperoni
+-1.130334	half peppers	-0.4694344
+-1.130334	half sausage
+-0.30103	half, and
+-0.7403627	ham </s>
+-0.3881802	ham and	-0.1382711
+-1.819544	ham bacon
+-1.518514	ham doubel	0
+-1.819544	ham olives
+-0.9744459	ham pizza	0.1207064
+-1.819544	ham pizza,
+-1.518514	ham pizzas	-0.1744493
+-1.518514	ham please	0.009870768
+-1.819544	ham spinach
+-0.60206	hame and
+-0.60206	hame please
+-0.05551733	hand tossed	0
+-1.39794	hand tosted
+-0.04575749	handmade pan	-0.1249387
+-0.30103	handtosssed pizza
+-0.30103	has green
+-2.305351	have 9
+-0.2925141	have a	-0.0242652
+-2.305351	have american
+-1.22617	have an	-0.03778857
+-2.305351	have cheese
+-1.703291	have eight	-0.1627273
+-2.004321	have five	-0.4464524
+-1.5272	have four	-0.08582103
+-2.305351	have half
+-1.305351	have one	-0.06214789
+-2.004321	have seven	-0.3802113
+-2.305351	have six
+-2.305351	have ten
+-1.703291	have the
+-1.351109	have three	-0.04452194
+-2.305351	have twenty
+-0.890378	have two	0.01292762
+-0.69897	hawaii pizza
+-0.39794	hawaii pizzas
+-1.653213	hawaiian </s>
+-1.653213	hawaiian and
+-1.653213	hawaiian gluten
+-1.653213	hawaiian hand
+-1.653213	hawaiian no
+-0.2730013	hawaiian pizza	0.2962836
+-0.8081145	hawaiian pizzas	0.2849432
+-1.653213	hawaiian please
+-0.09691001	hearty marinara	0.3802112
+-1.643453	hello bye
+-1.041393	hello can	0.8981265
+-1.342423	hello could	0.4259687
+-1.342423	hello give	0.7781513
+-0.5642715	hello i	-0.5774917
+-1.166331	hello i'd	1.402261
+-1.643453	hello i'm
+-0.7983546	hello may	0.628389
+-1.643453	hello please
+-1.643453	hello there
+-0.845098	hey can	0.7220353
+-1.146128	hey could
+-0.845098	hey i
+-1.146128	hey i'd
+-1.146128	hey let
+-1.146128	hey may
+-0.60206	hi can	0.2960665
+-1.467361	hi could	0.30103
+-0.60206	hi i	-0.5282737
+-0.7683914	hi i'd	0.8002013
+-1.467361	hi i'll	-0.2775489
+-1.944483	hi let
+-1.166331	hi may	0.2604122
+-1.643453	hi one
+-1.944483	hi please
+-1.944483	hi three
+-1.944483	hi uh
+-0.69897	hi, can
+-0.39794	hi, i
+-0.30103	hi,i wanna
+-0.30103	homemade pan
+-0.03778856	honolulu hawaiian	-0.03698355
+-0.04011722	hot sauce	0.1182053
+-1.531479	hot souce
+-0.30103	hu one
+-1.853872	i am	0
+-0.7798919	i get	-0.05546695
+-0.623423	i have	-0.08492112
+-2.69897	i just
+-2.39794	i need
+-1.443697	i order	0.08022898
+-1.318759	i please	-1.051044
+-2.221849	i wanna	-0.30103
+-0.623423	i want	-0.0352422
+-2.39794	i will	0
+-0.653647	i would	0.003793001
+-0.004321374	i'd like	0.008542895
+-0.9777236	i'll get
+-0.2787536	i'll have	0.1355091
+-0.6766936	i'll take
+-1.041393	i'm calling
+-0.7403627	i'm getting
+-0.5642715	i'm gonna
+-1.041393	i'm looking
+-0.1249387	id like	-0.3281258
+-0.30103	ill take
+-0.30103	im gonna
+-1.161368	inch cheese	-0.2502383
+-0.763428	inch chicken	-0.6543333
+-1.462398	inch fiery
+-1.462398	inch ham
+-0.6842467	inch italian	0.02580726
+-1.462398	inch pepperoni
+-1.462398	inch pies
+-1.161368	inch pizza	-0.1601202
+-1.462398	inch tuscan
+-0.60206	inches pepperoni
+-0.60206	inches philly
+-0.1760913	inspired tomato	-0.3899711
+-0.1760913	is a
+-0.1249387	it </s>
+-1.079181	it and
+-0.06279083	italian sausage	0.08788073
+-1.716003	italian sausage,
+-1.716003	italian sausageand
+-1.716003	italian sausauge,
+-0.30103	itallian sausage
+-0.06694679	i’d like	0.2298435
+-0.9777236	jalapeno </s>
+-0.6766936	jalapeno and
+-0.4336556	jalapeno peppers	-0.003793001
+-0.9777236	jalapeno pizzas
+-0.1760913	jalapenos </s>
+-0.30103	jalapenosum could
+-0.60206	just get
+-0.60206	just give
+-0.1760913	kicker hot	0.5772364
+-2.271842	large american	0.6368221
+-2.572872	large artisan
+-1.618629	large bacon	-0.3458225
+-2.572872	large barbecue
+-2.271842	large barbeque	-0.3679768
+-2.271842	large bbq	-0.2218488
+-1.669782	large beef	-0.2200163
+-1.873902	large brooklyn	0.5642715
+-1.79472	large buffalo	0.5351132
+-2.572872	large cali
+-0.6978104	large cheese	-0.751114
+-2.572872	large cheeseless
+-1.531479	large chicken	-0.003353655
+-2.09575	large crunchy	0.5740313
+-2.09575	large deep	0.544068
+-2.572872	large deluxe
+-2.572872	large diced
+-2.572872	large double
+-2.271842	large extra	-0.3815496
+-2.572872	large feta
+-2.09575	large gluten	0.7781512
+-1.873902	large ham	0.02435935
+-1.572872	large hand	-0.1205739
+-2.572872	large handmade
+-2.271842	large hawaii	-0.2552725
+-2.572872	large hawaiian
+-2.572872	large honolulu
+-2.09575	large italian	0.2688453
+-2.572872	large light
+-2.572872	large meatzza
+-2.271842	large memphis	0
+-2.271842	large mushroom
+-2.572872	large mushrooms
+-2.271842	large one
+-2.09575	large pacific	0.7201592
+-1.174932	large pepperoni	-0.4866666
+-1.669782	large philly	0.3802114
+-2.572872	large pie
+-2.572872	large pineapple
+-0.9101138	large pizza	-0.1994647
+-1.294118	large pizzas	-0.542426
+-2.572872	large pizzas,
+-2.09575	large plain	-0.1597009
+-2.572872	large premium
+-2.572872	large red
+-2.09575	large salami
+-1.873902	large sausage	-0.1007759
+-1.669782	large spinach	-0.6260602
+-1.873902	large thin	0.2632414
+-2.572872	large three
+-2.572872	large tomato
+-2.271842	large tuscan	0.4259687
+-2.09575	large ultimate	0.09691
+-2.572872	large um
+-2.271842	large veggie	-0.2118068
+-2.572872	large wisconsin
+-1.873902	large with
+-0.7781513	larges all
+-0.7781513	larges one
+-0.7781513	larges with
+-0.30103	left side
+-0.02632894	let me	-0.5965353
+-0.30103	let's try
+-1.431364	light alfredo
+-0.7323937	light cheese	-0.1822082
+-1.431364	light chicken
+-1.431364	light feta
+-1.431364	light marinara
+-1.431364	light mushrooms
+-1.431364	light onions
+-1.431364	light pineapple
+-0.9542425	light sauce	0.07918122
+-1.130334	light white	0.2762064
+-0.5680154	like a	0.01111323
+-1.668386	like an	0.2088838
+-2.367356	like eight
+-1.765296	like five
+-1.765296	like four
+-1.325963	like one	0.03060615
+-2.367356	like seven
+-1.890235	like six	-0.2011642
+-2.367356	like sixteen
+-2.367356	like ten
+-1.668386	like three	-0.02199431
+-0.3299294	like to	0.03378952
+-2.066326	like twenty
+-1.413113	like two	-0.07629557
+-0.30103	looking to
+-0.04575749	mango habanero	0
+-0.03778856	marinara sauce	0.07580152
+-0.03547232	may i	-0.8147802
+-1.40654	may we
+-0.5180262	me a	0.02475104
+-1.94939	me america’s
+-1.472269	me an	0.2174839
+-1.94939	me could
+-1.472269	me five
+-1.472269	me four
+-1.0463	me get	0.09211114
+-1.104292	me have	0.1847774
+-1.94939	me nine
+-1.472269	me one
+-1.94939	me order
+-1.94939	me seven
+-1.64836	me ten
+-1.94939	me the
+-1.104292	me three	-0.05551732
+-1.34733	me two
+-0.30103	meat za
+-0.60206	meatza feast
+-0.60206	meatza pizzas
+-0.243038	meatzza feast	-0.2108533
+-0.845098	meatzza feasts
+-2.045323	medium america's	0.2218488
+-1.744293	medium bacon	-0.0990155
+-2.346353	medium barbecue
+-1.869232	medium beef	-0.4796536
+-2.346353	medium brooklyn
+-2.045323	medium buffalo	0.90309
+-2.045323	medium cali	0.5642715
+-0.8148741	medium cheese	-0.8869106
+-2.346353	medium chicken
+-1.869232	medium crunchy	0.5740313
+-2.346353	medium deep
+-2.346353	medium deluxe
+-2.045323	medium extra	-0.3815496
+-1.744293	medium fiery	0.4771213
+-2.045323	medium gluten	0.90309
+-2.346353	medium green
+-2.346353	medium half
+-2.045323	medium ham	-0.4284293
+-2.346353	medium hand
+-2.346353	medium handtosssed
+-2.346353	medium hawaiian
+-2.045323	medium honolulu	0.60206
+-1.744293	medium italian	0.1719353
+-2.346353	medium mango
+-2.346353	medium marinara
+-2.346353	medium meatzza
+-1.647383	medium mushroom	-0.2514712
+-2.346353	medium mushrooms
+-2.346353	medium no
+-2.346353	medium one
+-1.869232	medium pacific	0.7201592
+-2.045323	medium pan
+-2.346353	medium parmesan
+-1.30496	medium pepperoni	-0.1856366
+-1.568202	medium philly	-0.2360892
+-2.346353	medium pie
+-2.346353	medium pies
+-2.346353	medium pineapple
+-0.9661418	medium pizza	-0.4153927
+-1.30496	medium pizzas	0.377923
+-2.045323	medium premium	0.4259687
+-2.346353	medium salami
+-2.045323	medium sliced	-0.1383027
+-1.647383	medium spinach	-0.449969
+-2.045323	medium thin	0.5642715
+-2.346353	medium three
+-2.346353	medium two
+-1.744293	medium ultimate	0
+-2.346353	medium veggie
+-2.045323	medium wisconsin	0.7269988
+-2.045323	medium with
+-0.30103	mediums one
+-0.9542425	memphis barbecue
+-0.1760913	memphis bbq	-0.5898255
+-0.30103	morning i
+-0.30103	morning, i
+-0.30103	much </s>
+-0.30103	murshroom pizza
+-0.9294189	mushroom </s>
+-0.6863809	mushroom and
+-1.531479	mushroom half
+-1.531479	mushroom on
+-1.531479	mushroom pan
+-1.054358	mushroom pizza	0.09515232
+-0.6283889	mushroom pizzas	0.2435505
+-1.531479	mushroom please
+-0.4444521	mushrooms </s>
+-0.6922366	mushrooms and	-0.1199551
+-1.80618	mushrooms jalapeno
+-1.329059	mushrooms on
+-1.20412	mushrooms onions	-0.5314789
+-1.50515	mushrooms peppers
+-1.80618	mushrooms pineapple
+-1.329059	mushrooms pizza	0.09515232
+-1.329059	mushrooms please	-0.115068
+-1.80618	mushrooms thank
+-0.90309	mushrooms, and
+-0.90309	mushrooms, onions
+-0.90309	mushrooms, onions,
+-0.90309	mushrooms, please
+-0.30103	mushrooms. </s>
+-0.1760913	my order	-0.471857
+-0.60206	need five
+-0.60206	need two
+-0.9542425	nine deep
+-0.9542425	nine large
+-0.9542425	nine pepperoni
+-0.6532125	nine small
+-0.4586379	no cheese	0.1629374
+-1.361728	no mushrooms
+-1.361728	no peppers
+-1.361728	no roasted
+-0.6627578	no sauce	0.1918855
+-1.361728	no wait
+-0.7781513	normal barbeque
+-0.7781513	normal beef
+-0.7781513	normal hawaiian
+-0.1760913	of them
+-0.30103	oh and
+-0.69897	olive pizza
+-0.39794	olive pizzas	-0.3280332
+-0.462398	olives </s>
+-0.559308	olives and	-0.0250405
+-1.462398	olives banana	0.2710668
+-1.763428	olives feta
+-1.763428	olives ham
+-1.763428	olives jalapeno
+-1.763428	olives onions
+-1.763428	olives pizza
+-1.286307	olives thank	0.7201592
+-1.462398	olives tomatoes
+-0.30103	olives, and
+-1.681241	on a
+-1.681241	on all
+-1.681241	on crunchy
+-1.681241	on half
+-1.681241	on half,
+-0.90309	on it	0.1760913
+-1.20412	on one	-0.2166785
+-0.7781513	on the	-0.0943478
+-1.681241	on them
+-1.380211	on thin	0.5642715
+-0.60206	on top	0.0511525
+-2.227887	one </s>
+-1.926857	one america's	0.2218488
+-2.227887	one bacon
+-2.227887	one cali
+-1.750765	one cheese	0.005034238
+-2.227887	one chicken
+-2.227887	one deep
+-2.227887	one deluxe
+-1.227887	one extra	-0.7561569
+-1.926857	one fiery	0.6989701
+-1.926857	one gluten	0.90309
+-2.227887	one half
+-2.227887	one hand
+-2.227887	one honolulu
+-0.7093728	one large	-0.06059687
+-0.9268567	one medium	-0.0496525
+-1.625827	one pacific	0.6232492
+-1.926857	one philly	-0.2872417
+-1.926857	one pizza
+-1.926857	one please	0.009870768
+-2.227887	one sauce
+-2.227887	one sausage
+-1.926857	one side	-0.1760913
+-0.6838186	one small	0.01494354
+-2.227887	one ultimate
+-2.227887	one wisconsin
+-1.227887	one with	-0.03199819
+-1	onion </s>
+-1	onion and
+-1.30103	onion half
+-0.60206	onion pizza	-0.05415709
+-1.30103	onion pizzas
+-1.30103	onion please
+-1.30103	onion thank
+-0.4600879	onions </s>
+-0.49485	onions and	-0.1059569
+-1.875061	onions black
+-1.875061	onions for
+-1.875061	onions jalapeno
+-1.875061	onions on
+-1.875061	onions pineapple
+-1.273001	onions please	-0.211978
+-1.875061	onions roasted
+-1.875061	onions spinach
+-1.875061	onions thank
+-1.875061	onions tomatoes
+-0.60206	onions, and
+-0.60206	onions, please.
+-2.220108	order </s>
+-0.3450468	order a	-0.154854
+-1.618048	order an	0.1383027
+-2.220108	order cali
+-2.220108	order eleven
+-1.521138	order five	-0.05675641
+-2.220108	order for
+-1.618048	order four	-0.07704712
+-1.919078	order is	0
+-2.220108	order nine
+-1.178715	order one	-0.1300481
+-2.220108	order please
+-2.220108	order seven
+-1.618048	order six
+-1.919078	order sixteen
+-1.742987	order ten
+-2.220108	order the
+-2.220108	order thirty
+-1.37501	order three	-0.03778856
+-2.220108	order twenty
+-0.9648356	order two	-0.08819479
+-1.079181	other </s>
+-1.079181	other half
+-1.079181	other one
+-1.079181	other please
+-1.079181	other three
+-1.079181	other with
+-0.30103	own pizza
+-0.0211893	pacific veggie	-0.04026312
+-0.9542425	pan cheese
+-1.255273	pan crust
+-1.255273	pan medium
+-0.3521825	pan pizza	0.2820214
+-1.255273	pan pizzas
+-0.8129134	parmesan </s>
+-1.113943	parmesan and
+-0.5118834	parmesan asiago
+-0.8129134	parmesan cheese	-0.396088
+-0.30103	parmesean cheese
+-0.06694679	pasta sauce	-0.1249388
+-0.60206	peperoni cheese
+-0.60206	peperoni feast
+-1.380211	pepper and
+-1.380211	pepper olives
+-0.90309	pepper pizza
+-0.90309	pepper pizzas
+-0.3388186	pepper trio	0
+-0.9156791	pepperoni </s>
+-0.7659168	pepperoni and	-0.08519302
+-2.146128	pepperoni bacon
+-2.146128	pepperoni beef
+-1.191885	pepperoni feast	0.03778854
+-2.146128	pepperoni italian
+-1.669007	pepperoni on	-0.1426675
+-2.146128	pepperoni pies
+-0.4740302	pepperoni pizza	-0.1338796
+-0.7844002	pepperoni pizzas	0.1388152
+-1.845098	pepperoni with
+-0.30103	pepperoni, italian
+-0.4887031	peppers </s>
+-0.5655432	peppers and	-0.05635875
+-2.056905	peppers black
+-2.056905	peppers cheddar
+-1.579784	peppers diced	0.05115247
+-2.056905	peppers extra
+-1.755875	peppers half
+-2.056905	peppers hot
+-1.755875	peppers olives
+-1.454845	peppers on	-0.02118932
+-2.056905	peppers one
+-1.454845	peppers onions	-0.1335389
+-2.056905	peppers pizza
+-2.056905	peppers pizzas
+-1.357935	peppers please	-0.2911592
+-2.056905	peppers red
+-2.056905	peppers spinach
+-0.39794	peppers, and
+-0.69897	peppers, mushrooms,
+-0.4507923	philly cheese	-1.235179
+-0.2498775	philly steak	0.1136157
+-1.681241	philly steak,
+-1	pie </s>
+-1	pie and
+-0.30103	pie with
+-0.90309	pies </s>
+-0.90309	pies please
+-0.4259687	pies with
+-0.30103	pies, one
+-0.5259698	pineapple </s>
+-0.4960066	pineapple and	-0.1121307
+-1.672098	pineapple ham
+-1.371068	pineapple on
+-1.672098	pineapple onions
+-0.8939466	pineapple pizza	-0.1089677
+-1.672098	pineapple please
+-0.4393327	pineapples </s>
+-1.041393	pineapples and
+-1.041393	pineapples on
+-1.041393	pineapples please
+-0.5346265	pizza </s>
+-2.327018	pizza a	-0.1014105
+-2.804139	pizza add
+-1.247837	pizza and	-0.3750926
+-2.804139	pizza for
+-2.804139	pizza good-bye
+-2.503109	pizza no
+-2.804139	pizza oh
+-2.20208	pizza one	-0.09142761
+-2.804139	pizza pies
+-1.213075	pizza please	-0.6486706
+-2.025988	pizza thank	0.4771212
+-2.10517	pizza thanks	0.02348107
+-2.804139	pizza that
+-2.804139	pizza two
+-0.2856255	pizza with	0.03878164
+-2.503109	pizza without
+-0.60206	pizza, a
+-0.60206	pizza, please
+-0.30103	pizza. for
+-0.5367551	pizzas </s>
+-1.381853	pizzas and	-0.2195514
+-2.423246	pizzas five
+-2.423246	pizzas four
+-2.122216	pizzas one	-0.4506317
+-1.167973	pizzas please	-0.3369167
+-1.821186	pizzas thanks	0.5006024
+-2.423246	pizzas that
+-2.423246	pizzas that's
+-2.423246	pizzas today
+-2.423246	pizzas two
+-0.2993942	pizzas with	0.04406339
+-2.423246	pizzas without
+-0.30103	pizzas, one
+-0.30103	pizzza with
+-0.30103	place an
+-1.176091	plain deep
+-0.8750613	plain pie	-0.1760913
+-0.5740313	plain pizza	-0.5490071
+-0.5740313	plain pizzas	-0.151942
+-0.1712388	please </s>
+-2.25042	please add
+-1.773299	please extra	-0.1262771
+-1.55145	please get
+-1.136477	please give	0.1091444
+-0.9716664	please have	-0.004278779
+-2.25042	please i
+-2.25042	please just
+-1.94939	please no
+-2.25042	please thanks
+-2.25042	please with
+-0.30103	please. </s>
+-0.05799195	premium chicken	-0.1958353
+-0.30103	provologne cheese
+-0.5797836	provolone </s>
+-0.8016323	provolone and
+-0.5006024	provolone cheese	-0.3449355
+-1.278754	provolone pizzas
+-1.342423	ranch </s>
+-1.342423	ranch and
+-1.342423	ranch brooklyn
+-0.8653014	ranch dressing	0
+-1.342423	ranch feast
+-0.5642715	ranch pizza	-0.05971192
+-1.041393	ranch pizzas	-0.1744493
+-1.113943	red pepper
+-0.1139434	red peppers	0.135869
+-1.414973	red peppers,
+-0.69897	regular cheese
+-0.39794	regular pizza	-0.3271584
+-0.30103	right side
+-0.1836444	roasted red	-0.00663054
+-1.462398	roasted veggid
+-0.6842467	roasted veggie	-0.0385634
+-0.1760913	robust inspired	0
+-0.6478175	salami </s>
+-0.5228788	salami and	-0.3098254
+-1.60206	salami hot
+-1.60206	salami onion
+-1.60206	salami pepperoni
+-0.7569619	salami pizza	0.1207064
+-1.30103	salami pizzas
+-0.39794	salami, and
+-0.69897	salami, feta
+-0.30103	sauce </s>
+-0.7849907	sauce and	-0.06350641
+-1.80618	sauce chicken
+-2.10721	sauce feta
+-2.10721	sauce jalapeno
+-2.10721	sauce mushrooms
+-1.630089	sauce on
+-1.80618	sauce pineapple	-0.3101734
+-1.40824	sauce pizza	0.1128811
+-1.329059	sauce pizzas	0.08082324
+-1.262112	sauce please	-0.416098
+-2.10721	sauce roasted
+-2.10721	sauce thank
+-0.69897	sauce, bacon,
+-0.39794	sauce, chicken,	-0.1760913
+-0.30103	sauceless pizza
+-0.9751764	sausage </s>
+-0.4522977	sausage and	-0.1881955
+-1.929419	sausage green
+-1.929419	sausage hand
+-1.929419	sausage on
+-1.929419	sausage pineapple
+-0.6741464	sausage pizza	0.3580907
+-1.929419	sausage pizza,
+-0.9294189	sausage pizzas	0.4078861
+-1.929419	sausage please
+-1.929419	sausage with
+-0.30103	sausage, green
+-0.30103	sausageand mushrooms
+-0.30103	sausauge, philly
+-0.30103	sausuage please
+-1.30103	seven anchovy
+-1.30103	seven cheese
+-1.30103	seven deep
+-1.30103	seven hot
+-1	seven large
+-0.69897	seven medium
+-1.30103	seven small
+-1.30103	seven spicy
+-0.30103	shake </s>
+-1.278754	shredded asiago
+-1.278754	shredded beef
+-0.4336556	shredded parmesan	0.00560388
+-0.5006024	shredded provolone	-0.2263964
+-0.30103	side and	-0.2163463
+-0.7781513	side thanks
+-1.633469	six americas
+-1.633469	six chees
+-0.4573772	six cheese	-0.561057
+-1.332438	six chicken	-0.3533033
+-1.156347	six extra	-0.3168243
+-1.633469	six hawaiian
+-1.156347	six large
+-1.633469	six medium
+-1.633469	six mushroom
+-1.633469	six pizza
+-1.156347	six small
+-0.60206	sixteen cali	0.5642715
+-0.90309	sixteen cheese
+-0.60206	sixteen inch
+-0.2662679	sliced italian	-0.2752228
+-0.5351132	sliced provolone	-0.0258805
+-1.380211	sliced sausage
+-1.70757	small bacon	-0.1581369
+-2.40654	small barbecue
+-2.10551	small bbq
+-1.80448	small beef	-0.5765636
+-1.80448	small brooklyn	0.6434527
+-2.40654	small brooklyn-style
+-2.10551	small buffalo	0.90309
+-2.40654	small build
+-2.10551	small cali	0.5642715
+-2.10551	small cheddar
+-0.8044802	small cheese	-0.3817606
+-1.561442	small chicken	-0.1024851
+-2.40654	small crunchy
+-2.40654	small deep
+-2.10551	small deluxe	0.3679768
+-2.40654	small extra
+-2.40654	small extravaganza
+-1.80448	small fiery	0.4771213
+-1.561442	small gluten	0.4771212
+-2.10551	small green
+-1.70757	small ham	0.1193348
+-2.40654	small hand
+-1.628389	small handmade	0.154902
+-2.10551	small hawaiian	-0.1461281
+-2.40654	small honolulu
+-1.628389	small italian	0.02580726
+-2.40654	small meat
+-2.40654	small meatza
+-2.40654	small murshroom
+-2.40654	small mushroom
+-2.40654	small mushrooms
+-2.40654	small olive
+-1.80448	small pacific	0.6232492
+-1.176091	small pepperoni	-0.2430381
+-1.929419	small philly	-0.0319692
+-2.40654	small pie
+-2.10551	small pineapple	-0.4178073
+-0.8154756	small pizza	-0.1339632
+-1.50345	small pizzas	-0.0397507
+-2.40654	small roasted
+-1.929419	small sausage	-0.1185046
+-2.40654	small sliced
+-1.80448	small spinach	-0.3707878
+-1.80448	small thin	0.3424227
+-2.10551	small tuscan	0.4259687
+-1.929419	small wisconsin	0.60206
+-0.30103	smalls and
+-0.30103	so much
+-0.30103	some olives
+-0.30103	souce </s>
+-0.30103	spicy beef
+-0.819544	spinach </s>
+-0.2754759	spinach and	-0.2785891
+-1.819544	spinach mushroom
+-1.518514	spinach mushrooms	-0.3785115
+-1.342423	spinach on
+-1.518514	spinach pizza	-0.1601202
+-1.518514	spinach pizzas	-0.1744493
+-1.342423	spinach please	-0.115068
+-0.8211859	steak </s>
+-1.025306	steak and
+-1.724276	steak brooklyn
+-0.362548	steak pizza	0.494332
+-1.025306	steak pizzas	0.1935275
+-1.423246	steak please	0.009870768
+-1.423246	steak with
+-0.30103	steak, and
+-1.190332	style and	-0.4692391
+-1.190332	style cheese	-0.2502383
+-0.7923917	style crust	-0.05883936
+-1.491362	style large
+-1.491362	style pacific
+-1.491362	style philly
+-0.8893017	style pizza	-0.3819689
+-1.01424	style pizzas	-0.2993881
+-1.491362	style plain
+-1.491362	style small
+-0.30103	suasuage and
+-0.07918125	sweet mango	0.2218487
+-1	take an
+-1	take seven
+-1	take six
+-1	take three
+-1	take two
+-0.30103	takeout </s>
+-1.028029	ten extra	-0.3168243
+-1.50515	ten gluten
+-0.60206	ten inch	-0.07751408
+-1.50515	ten inches
+-1.028029	ten large
+-1.50515	ten medium
+-1.50515	ten pizzas
+-1.50515	ten plain
+-1.20412	ten small
+-1.50515	ten spinach
+-0.0211893	thank you	-0.9542425
+-0.07463362	thanks </s>
+-1.278754	thanks so
+-0.60206	that has
+-0.60206	that have
+-0.69897	that's all
+-0.39794	that's it	0.1249388
+-0.30103	that’s it
+-1.531479	the bacon
+-1.531479	the cheese
+-1.531479	the extravaganzza
+-1.531479	the large
+-1.531479	the left
+-1.531479	the meatzza
+-1.230449	the medium
+-0.7533277	the other
+-1.531479	the premium
+-1.531479	the right
+-1.230449	the top	-0.0669468
+-1.531479	the whole
+-1.230449	the wisconsin	0.7269988
+-0.39794	them </s>
+-0.69897	them with
+-0.1249387	then a	-0.220149
+-0.30103	there one
+-0.04139268	thin crust	-0.08591461
+-1.518514	thin pizza
+-0.30103	thing thanks
+-0.39794	thirteen extra	-0.1918855
+-0.69897	thirteen large
+-0.90309	thirty medium
+-0.90309	thirty pizzas
+-0.90309	thirty small
+-0.90309	thirty thin
+-1.944483	three bufalo
+-1.944483	three buffalo
+-1.944483	three cheese
+-1.944483	three cheeseless
+-1.643453	three extra	-0.1918855
+-1.944483	three fiery
+-1.643453	three gluten	0.90309
+-0.7403627	three large	-0.006340191
+-1.944483	three meatzza
+-0.8305393	three medium	-0.008075625
+-1.944483	three mediums
+-1.643453	three pacific	0.845098
+-1.944483	three pies
+-1.944483	three pizzas
+-1.944483	three regular
+-1.944483	three sixteen
+-0.9444827	three small	0.009759828
+-1.944483	three smalls
+-1.944483	three ten
+-1.643453	three topping
+-1.944483	three triple
+-1.944483	three ultimate
+-1.944483	three wisconsin
+-1.944483	three with
+-0.8712683	to get	0.0504849
+-0.8350561	to have	-0.1182586
+-2.232996	to it
+-0.1685381	to order	-0.04204625
+-2.232996	to place
+-0.30103	today thank
+-1.041393	tomato </s>
+-0.5642715	tomato and
+-1.041393	tomato on
+-0.7403627	tomato sauce	-0.1760913
+-0.7459666	tomatoes </s>
+-0.6879746	tomatoes and
+-1.591065	tomatoes banana
+-1.591065	tomatoes extra
+-1.290035	tomatoes green	0.2459824
+-1.290035	tomatoes on
+-1.591065	tomatoes onions
+-0.8920946	tomatoes please	-0.2911592
+-1.591065	tomatoes roasted
+-1.591065	tomatoes thank
+-0.30103	tomatos and
+-0.2138798	top </s>
+-1.255273	top and
+-1.255273	top please
+-1.255273	top thanks
+-0.39794	topping pizza	-0.449683
+-0.69897	topping pizzas
+-0.30103	toppings, i
+-1.544068	tossed </s>
+-1.544068	tossed buffalo
+-0.845098	tossed cheese	-0.1410938
+-1.066947	tossed crust
+-1.544068	tossed hawaiian
+-1.544068	tossed medium
+-1.544068	tossed memphis
+-1.544068	tossed mushroom
+-1.243038	tossed pepperoni	-0.2994762
+-1.544068	tossed philly
+-1.243038	tossed pizza
+-1.544068	tossed pizzas
+-1.243038	tossed sliced
+-0.30103	tosted pizza
+-1.230449	trio </s>
+-0.9294189	trio pizza
+-0.5314789	trio please	-0.2886561
+-1.230449	trio thank
+-1.230449	trio thanks
+-1.230449	trio with
+-1	triple anchovies
+-0.5228788	triple cheese	-0.1408155
+-1	triple pineapple
+-1	triple sausage
+-0.30103	try the
+-0.05799195	tuscan salami	-0.748188
+-0.1383027	twelve inch	-0.2417525
+-1.041393	twelve inches
+-0.60206	twenty five
+-1.079181	twenty half
+-1.079181	twenty hand
+-1.079181	twenty two
+-1.079181	twenty ultimate
+-2.178977	two bacon
+-2.178977	two buffalo
+-1.701856	two cheese	-0.5238018
+-2.178977	two chicken
+-2.178977	two deep
+-2.178977	two double
+-1.333879	two extra	-0.6178542
+-2.178977	two extravaganza
+-2.178977	two honolulu
+-0.673827	two large	-0.09573795
+-1.877947	two larges
+-2.178977	two light
+-0.6226745	two medium	-0.1341862
+-2.178977	two of
+-2.178977	two pacific
+-2.178977	two peperoni
+-1.576917	two pepperoni	-0.06818587
+-2.178977	two pies,
+-1.877947	two plain	-0.3424227
+-1.877947	two sausage	-0.4227636
+-0.8567576	two small	-0.08849265
+-2.178977	two topping
+-2.178977	two tuscan
+-1.877947	two twelve
+-2.178977	two x
+-1.041393	uh can
+-1.041393	uh gimme
+-0.7403627	uh i'd	1.5272
+-1.041393	uh one
+-1.041393	uh two
+-1.176091	ultimate peperoni
+-0.09691001	ultimate pepperoni	-0.3301652
+-1.342423	um a
+-1.342423	um brooklyn
+-1.342423	um could
+-0.8653014	um hi	-0.09691003
+-1.342423	um i
+-1.342423	um i'd
+-1.342423	um may
+-1.342423	um pineapple
+-1.342423	um six
+-1.342423	um small
+-0.30103	um, five,
+-0.1760913	us two	-0.3736913
+-0.30103	veggid </s>
+-1.243038	veggie </s>
+-1.544068	veggie crunchy
+-0.3399481	veggie pizza	0.1984754
+-0.640978	veggie pizzas	0.2435505
+-1.066947	veggie please	-0.115068
+-0.30103	wait a
+-0.7781513	wanna a
+-0.30103	wanna order	0.03921795
+-0.5070845	want a	0.1484669
+-1.285236	want an	-0.03778857
+-2.130334	want five
+-1.829304	want nine	-0.3679768
+-2.130334	want olives
+-1.528274	want one	-0.04534613
+-2.130334	want six
+-2.130334	want the
+-1.431364	want three	-0.1273993
+-0.4582359	want to	0.1660494
+-2.130334	want twenty
+-1.176091	want two	-0.4804638
+-2.130334	want uh
+-1.079181	we are
+-0.7781513	we get
+-1.079181	we have
+-0.7781513	we want
+-1.079181	we would
+-0.30103	we're gonna
+-0.30103	well i'd
+-0.08432089	white sauce	0.04139265
+-1.230449	white sauce,
+-0.30103	whole thing
+-0.1760913	will order
+-0.02802872	wisconsin six	-0.5670173
+-2.298853	with a
+-2.775974	with additional
+-1.930876	with alfredo	-0.1091445
+-1.997823	with american	0.2688453
+-2.775974	with anchovies
+-2.474944	with asiago	-0.3388186
+-1.344611	with bacon	-0.4998998
+-1.545525	with banana	-0.5070845
+-2.474944	with barbecue	-0.3679768
+-2.474944	with barbeque	-0.1249388
+-2.775974	with bbq
+-1.662031	with beef	-0.2279017
+-2.775974	with beef,
+-1.599883	with black	0.2272437
+-2.775974	with blue
+-2.173914	with brooklyn	0.6434527
+-2.298853	with buffalo	0.7781512
+-1.997823	with cheddar	0.02555412
+-1.696793	with cheese	-0.4552094
+-2.775974	with cheese,
+-1.775974	with chicken	-0.09803078
+-2.775974	with chicken,
+-2.775974	with crunchy
+-1.696793	with diced	0.1760912
+-1.599883	with double	0.01017924
+-1.142506	with extra	-0.1955816
+-1.872884	with feta	-0.3631779
+-2.775974	with fries
+-1.872884	with garlic	0.007238403
+-2.775974	with garlic,
+-2.474944	with gluten	0.90309
+-1.662031	with green	0.02413368
+-2.775974	with grilled
+-2.173914	with half	-0.1127043
+-1.414246	with ham	-0.2650323
+-2.474944	with hame
+-2.775974	with hand
+-2.775974	with handmade
+-1.696793	with hot	-0.05958569
+-1.930876	with italian	0.393784
+-2.775974	with itallian
+-2.077004	with jalapeno	-0.004547626
+-1.872884	with light	-0.0805196
+-2.775974	with mango
+-2.298853	with marinara	0.4771212
+-2.173914	with mushroom	-0.04601289
+-1.313576	with mushrooms	-0.09254524
+-2.298853	with mushrooms,
+-1.821732	with no	0.02593574
+-2.474944	with normal
+-1.930876	with olives	0.2449141
+-2.173914	with onion
+-1.344611	with onions	-0.01142943
+-2.775974	with parmesan
+-2.775974	with parmesean
+-1.433552	with pepperoni	-0.6453872
+-2.775974	with pepperoni,
+-2.298853	with peppers	-0.084022
+-1.930876	with philly	-0.544068
+-1.662031	with pineapple	-0.03547233
+-2.474944	with pineapples
+-2.775974	with premium
+-2.775974	with provolone
+-2.474944	with ranch
+-2.474944	with red	0.1597008
+-1.872884	with roasted	-0.4918445
+-2.775974	with robust
+-1.821732	with salami	-0.1538149
+-2.775974	with salami,
+-2.077004	with sausage	-0.2774069
+-2.077004	with shredded	-0.004547626
+-1.775974	with sliced	0.2662678
+-1.662031	with spinach	0.009311378
+-2.775974	with steak
+-2.775974	with suasuage
+-2.775974	with sweet
+-2.775974	with thin
+-2.474944	with tomatoes
+-1.872884	with white	0.230449
+-2.775974	with with
+-1	without any
+-1	without cheese
+-1	without grilled
+-1	without mushrooms
+-1	without onions
+-2.060698	would also
+-2.060698	would have
+-0.01930515	would like	0.09535956
+-0.09691001	x large
+-0.30103	yeah i’d
+-0.243038	you </s>
+-1.544068	you deliver
+-0.9420081	you get	-0.2892916
+-1.066947	you give	0.6532125
+-1.243038	you please
+-0.30103	your own
+-0.30103	za feast
 
 \3-grams:
+-0.5862657	<s> a large
+-1.130334	<s> a medium
+-0.7323937	<s> a small
+-1.423246	and a chicken
+-1.423246	and a hand
+-0.8211859	and a large
+-0.8211859	and a medium
+-0.7242759	and a small
+-1.467361	get a chicken
+-0.7140337	get a large
+-0.9902402	get a medium
+-1.643453	get a pepperoni
+-1.643453	get a pizza
+-0.7683914	get a small
+-1.467361	get a wisconsin
+-1.802774	have a bacon
+-1.501744	have a cheese
+-1.802774	have a chicken
+-1.802774	have a hawaiian
+-0.6566457	have a large
+-0.8250501	have a medium
+-1.802774	have a pepperoni
+-1.802774	have a philly
+-0.7058637	have a small
+-1.626683	have a ten
+-0.704365	like a large
+-0.7945417	like a medium
+-0.7323937	like a small
+-1.607455	like a ten
+-1.306425	like a twelve
+-1.30103	me a buffalo
+-0.69897	me a large
+-1.30103	me a philly
+-0.8239087	me a small
+-1.64836	order a hawaiian
+-0.4722688	order a large
+-0.8354467	order a medium
+-1.25042	order a pizza
+-0.74527	order a small
+-0.39794	pizza a large
+-0.39794	then a deep
+-0.9330532	want a large
+-1.176091	want a medium
+-1.176091	want a pizza
+-0.6642079	want a small
+-0.6532125	good afternoon may
+-0.1249387	and alfredo pasta
+-0.4771213	with alfredo pasta
+-0.3521825	with alfredo sauce
+-0.1760913	and also a
+-0.1760913	i am going
+-0.1760913	medium america's favorite
+-0.1760913	one america's favorite
+-0.1760913	large american cheese
+-0.06694679	with american cheese
+-0.30103	<s> an extra
+-0.39794	and an extra
+-0.09691001	get an extra
+-0.1760913	have an extra
+-0.60206	like an extra
+-0.60206	like an x
+-0.39794	me an extra
+-0.30103	order an extra
+-0.1760913	want an extra
+-1.079181	bacon and salami
+-1.060698	beef and a
+-1.060698	beef and chicken
+-1.060698	beef and extra
+-0.8846066	beef and ham
+-1.166331	cheese and a
+-1.342423	cheese and diced
+-1.041393	cheese and extra
+-1.342423	cheese and green
+-1.342423	cheese and spinach
+-0.3212334	chicken and bacon
+-1.156347	ham and a
+-1.332438	ham and hot
+-0.7883704	ham and pineapple
+-1.332438	ham and salami
+-1.332438	ham and triple
+-0.7403627	mushrooms and onions
+-1.041393	mushrooms and salami
+-1.190332	olives and pineapples
+-1.30103	onions and a
+-1.124939	onions and double
+-1.124939	onions and green
+-1.30103	onions and mushrooms
+-1.124939	onions and peppers
+-1.311754	pepperoni and a
+-1.311754	pepperoni and double
+-1.010724	pepperoni and mushrooms
+-1.135663	pepperoni and sausage
+-1.447158	peppers and hot
+-1.447158	peppers and olives
+-1.271067	peppers and philly
+-1.271067	peppers and spinach
+-1.113943	pineapple and ham
+-1.113943	pineapple and onion
+-0.9378521	pineapple and onions
+-0.5259698	pizza and a
+-1.371068	pizza and an
+-0.7178553	pizza and one
+-1.371068	pizza and three
+-1.194977	pizza and two
+-0.6283889	pizzas and a
+-0.9294189	pizzas and one
+-0.9294189	pizzas and three
+-0.9294189	salami and pepperoni
+-0.3853509	salami and roasted
+-1.102662	sauce and chicken
+-1.278754	sauce and mushrooms
+-1.278754	sauce and pepperoni
+-1.361728	sausage and black
+-1.361728	sausage and onion
+-0.5835766	sausage and pepper
+-1.361728	sausage and shredded
+-0.39794	side and light
+-1.380211	spinach and anchovies
+-0.3388186	spinach and feta
+-0.1760913	style and beef
+-0.1760913	with asiago on
+-0.6320232	and bacon carbonara
+-0.39794	and bacon pizza
+-1.176091	and bacon please
+-0.03778856	chicken bacon ranch
+-0.8129134	large bacon cheese
+-0.8129134	large bacon cheeseburger
+-0.6368221	large bacon pizza
+-0.8129134	large bacon pizzas
+-0.544068	medium bacon cheeseburger
+-0.60206	small bacon and
+-0.60206	small bacon cheeseburger
+-0.4637573	with bacon </s>
+-0.4259687	with bacon and
+-1.20412	with bacon chicken
+-0.30103	and banana peppers
+-0.1760913	olives banana peppers
+-0.02482358	with banana peppers
+-0.1760913	with barbecue sauce
+-0.1760913	and barbeque sauce
+-0.1760913	large barbeque chicken
+-0.1760913	with barbeque sauce
+-0.1760913	and basil </s>
+-0.1760913	and bbq sauce
+-0.1760913	extra bbq sauce
+-0.1760913	large bbq chicken
+-0.06694679	memphis bbq chicken
+-0.7269987	and beef </s>
+-0.90309	and beef and
+-0.90309	and beef pepperoni
+-0.1760913	doubel beef and
+-0.2632414	large beef pizza
+-0.1249387	medium beef pizza
+-0.09691001	small beef pizza
+-0.5314789	with beef </s>
+-0.4522977	with beef and
+-0.05115252	and black olives
+-0.02802872	with black olives
+-0.09691001	and blue cheese
+-0.1249387	a brooklyn style
+-0.07918125	large brooklyn style
+-0.09691001	small brooklyn style
+-0.09691001	with brooklyn style
+-0.07918125	a buffalo chicken
+-0.06694679	large buffalo chicken
+-0.1760913	medium buffalo chicken
+-0.1760913	small buffalo chicken
+-0.1249387	with buffalo chicken
+-0.1760913	medium cali chicken
+-0.1760913	sixteen cali chicken
+-0.1760913	small cali chicken
+-0.0284367	<s> can i
+-1.453318	<s> can you
+-0.30103	hello can i
+-0.1760913	hey can i
+-0.05799195	hi can i
+-0.7403627	bacon carbonara </s>
+-0.5642715	bacon carbonara pizza
+-0.1760913	a cheddar cheese
+-0.3521825	with cheddar cheese
+-0.154902	a cheese pizza
+-0.8239087	american cheese </s>
+-1	american cheese and
+-1	american cheese pizza
+-0.1760913	and cheese </s>
+-0.1760913	bacon cheese burger
+-0.60206	blue cheese </s>
+-0.30103	blue cheese sauce
+-0.90309	cheddar cheese </s>
+-0.7269987	cheddar cheese and
+-0.90309	cheddar cheese pizza
+-0.4259687	double cheese </s>
+-0.90309	double cheese pizza
+-0.2787536	extra cheese </s>
+-0.8808136	extra cheese and
+-1.102662	extra cheese pizza
+-1.278754	extra cheese pizzas
+-0.6232493	feta cheese </s>
+-0.6232493	feta cheese and
+-0.7201593	feta cheese pizza
+-0.1760913	inch cheese pizza
+-0.1652333	large cheese pizza
+-0.6188735	large cheese pizzas
+-0.60206	light cheese </s>
+-0.60206	light cheese and
+-0.2340832	medium cheese pizza
+-0.4423591	medium cheese pizzas
+-0.6368221	no cheese </s>
+-0.8129134	no cheese pizza
+-0.39794	one cheese pizza
+-0.1760913	parmesan cheese </s>
+-0.02482358	philly cheese steak
+-0.20412	provolone cheese </s>
+-0.1890562	six cheese pizza
+-0.6283889	six cheese pizzas
+-0.1908145	small cheese pizza
+-0.7501225	small cheese pizzas
+-0.1760913	style cheese pizza
+-0.243038	tossed cheese pizza
+-0.39794	triple cheese </s>
+-0.1249387	two cheese pizzas
+-0.4771213	with cheese </s>
+-0.39794	with cheese and
+-0.1918855	bacon cheeseburger feast
+-0.39794	a chicken and
+-0.69897	a chicken pizza
+-0.4771213	and chicken </s>
+-0.7781513	and chicken on
+-0.2632414	bbq chicken pizza
+-1.130334	buffalo chicken </s>
+-0.3174204	buffalo chicken pizza
+-0.5862657	buffalo chicken pizzas
+-0.04139268	cali chicken bacon
+-0.07918125	inch chicken and
+-0.50515	large chicken and
+-0.7269987	large chicken pizza
+-0.39794	premium chicken pizza
+-0.69897	premium chicken pizzas
+-0.1760913	six chicken and
+-0.5228788	small chicken and
+-0.69897	small chicken pizza
+-0.69897	small chicken pizzas
+-0.39794	with chicken and
+-0.1760913	sauce, chicken, and
+-0.05999793	<s> could i
+-1.190332	<s> could you
+-0.1760913	hello could i
+-0.1249387	hi could i
+-0.09691001	a crunchy thin
+-0.1249387	large crunchy thin
+-0.1249387	medium crunchy thin
+-0.6283889	free crust pizza
+-0.6532125	style crust pizzas
+-0.8920946	thin crust </s>
+-1.290035	thin crust pepperoni
+-0.4449366	thin crust pizza
+-0.9890046	thin crust pizzas
+-0.1760913	a deep dish
+-0.1249387	large deep dish
+-0.1760913	small deluxe feast
+-0.05115252	and diced tomatoes
+-0.1249387	peppers diced tomatoes
+-0.1760913	with diced tomatoes
+-0.3273589	deep dish pizza
+-0.7533277	deep dish pizzas
+-0.1760913	ham doubel beef
+-0.60206	and double cheese
+-0.60206	and double mushroom
+-0.6627578	with double cheese
+-0.7596679	with double ham
+-0.1249387	ranch dressing </s>
+-0.1760913	<s> eight small
+-0.30103	have eight medium
+-0.5228788	good evening i
+-0.09691001	a extra large
+-0.01223446	an extra large
+-0.9294189	and extra bbq
+-0.7533277	and extra cheese
+-0.9294189	and extra sauce
+-0.9294189	and extra white
+-0.1760913	eight extra large
+-0.1249387	five extra large
+-0.09691001	four extra large
+-0.1760913	large extra cheese
+-0.1760913	medium extra cheese
+-0.04139268	one extra large
+-0.39794	please extra cheese
+-0.1249387	six extra large
+-0.1249387	ten extra large
+-0.1760913	thirteen extra large
+-0.1760913	three extra large
+-0.05799195	two extra large
+-1.469822	with extra bacon
+-0.469822	with extra cheese
+-1.469822	with extra pepperoni
+-1.168792	with extra sauce
+-1.469822	with extra shredded
+-1.293731	with extra spinach
+-0.09691001	america's favorite feast
+-0.8750613	cheeseburger feast </s>
+-0.69897	cheeseburger feast with
+-0.69897	deluxe feast </s>
+-0.69897	deluxe feast pizza
+-0.6532125	favorite feast pizza
+-0.4771213	meatzza feast pizza
+-0.4771213	meatzza feast with
+-0.6690068	pepperoni feast </s>
+-0.845098	pepperoni feast pizza
+-0.845098	pepperoni feast pizzas
+-0.7659168	and feta cheese
+-0.5898255	and feta pizza
+-0.845098	and feta pizzas
+-0.154902	with feta cheese
+-0.1760913	a fiery hawaiian
+-0.09691001	medium fiery hawaiian
+-0.1760913	one fiery hawaiian
+-0.09691001	small fiery hawaiian
+-0.1760913	have five extra
+-0.6532125	order five small
+-0.5228788	have four large
+-0.544068	order four small
+-0.1760913	a fourteen inch
+-0.50515	gluten free crust
+-0.90309	gluten free pizza
+-1.028029	gluten free pizzas
+-0.69897	and garlic </s>
+-0.69897	and garlic and
+-0.6690068	with garlic and
+-0.3099848	i get a
+-1.514105	i get an
+-1.690196	i get five
+-1.389166	i get one
+-1.690196	i get six
+-1.514105	i get three
+-0.8772827	i get two
+-0.5118834	me get a
+-0.449969	to get a
+-1.01424	to get one
+-0.8893017	to get two
+-0.30103	you get me
+-0.04275198	<s> give me
+-0.1760913	hello give me
+-0.03218468	please give me
+-0.1249387	you give me
+-0.1249387	large gluten free
+-0.1760913	medium gluten free
+-0.1760913	one gluten free
+-0.05799195	small gluten free
+-0.1760913	three gluten free
+-0.1760913	with gluten free
+-0.06694679	am going to
+-0.5797836	<s> good afternoon
+-0.5006024	<s> good evening
+-0.03218468	and green peppers
+-0.1760913	tomatoes green peppers
+-0.09691001	with green peppers
+-0.4771213	and grilled onions
+-0.4771213	and grilled peppers
+-0.04575749	mango habanero sauce
+-0.544068	with half peppers
+-0.447158	and ham </s>
+-0.845098	and ham and
+-0.845098	and ham please
+-0.4771213	double ham and
+-0.4771213	double ham doubel
+-0.4259687	large ham and
+-0.1760913	medium ham pizza
+-0.6532125	small ham and
+-0.5862657	with ham </s>
+-0.2852357	with ham and
+-0.09691001	a hand tossed
+-0.04139268	large hand tossed
+-0.06694679	small handmade pan
+-0.2599388	i have a
+-1.418301	i have an
+-1.64015	i have eight
+-1.418301	i have four
+-1.515211	i have one
+-1.816241	i have seven
+-1.163029	i have three
+-0.9411801	i have two
+-0.69897	i'll have a
+-0.8750613	i'll have the
+-0.69897	i'll have two
+-0.60206	me have a
+-0.5351132	please have a
+-0.90309	please have an
+-0.90309	please have one
+-0.6812412	please have two
+-0.2609128	to have a
+-1.190332	to have an
+-1.01424	to have one
+-0.1760913	large hawaii pizzas
+-0.07918125	a hawaiian pizza
+-0.544068	fiery hawaiian pizza
+-0.845098	fiery hawaiian pizzas
+-0.243038	honolulu hawaiian pizza
+-0.845098	honolulu hawaiian pizzas
+-0.1760913	small hawaiian pizza
+-0.09691001	and hearty marinara
+-1.041393	<s> hello can
+-1.342423	<s> hello could
+-1.342423	<s> hello give
+-0.5642715	<s> hello i
+-1.166331	<s> hello i'd
+-0.7983546	<s> hello may
+-0.845098	<s> hey can
+-0.845098	<s> hey i
+-0.6283889	<s> hi can
+-1.452298	<s> hi could
+-0.5869963	<s> hi i
+-0.7832909	<s> hi i'd
+-1.452298	<s> hi i'll
+-1.151268	<s> hi may
+-1.628389	<s> hi one
+-0.39794	um hi can
+-0.39794	<s> hi, i
+-0.09691001	a honolulu hawaiian
+-0.1760913	medium honolulu hawaiian
+-0.1760913	a hot sauce
+-0.1139434	and hot sauce
+-0.1760913	kicker hot sauce
+-0.03476211	with hot sauce
+-1.604226	<s> i am
+-2.002166	<s> i need
+-0.3489535	<s> i want
+-2.002166	<s> i will
+-0.3254724	<s> i would
+-0.4259687	can i get
+-0.3444957	can i have
+-1.183917	can i order
+-1.146128	can i please
+-0.4771213	could i get
+-0.4771213	could i have
+-1.113943	could i order
+-0.8129134	could i please
+-0.39794	evening i would
+-0.30103	hello i want
+-0.447158	hello i would
+-0.19382	hi i want
+-0.69897	hi i would
+-0.8624721	may i get
+-0.2304489	may i have
+-1.10551	may i order
+-0.9294189	may i please
+-0.005677133	<s> i'd like
+-0.1249387	hello i'd like
+-0.02802872	hi i'd like
+-0.1760913	uh i'd like
+-0.90309	<s> i'll get
+-0.3590219	<s> i'll have
+-0.60206	<s> i'll take
+-0.1249387	hi i'll have
+-0.6532125	<s> i'm getting
+-0.4771213	<s> i'm gonna
+-0.1249387	<s> id like
+-0.5118834	ten inch chicken
+-0.2632414	twelve inch italian
+-0.1760913	robust inspired tomato
+-0.1760913	order is a
+-0.20412	on it </s>
+-0.1760913	that's it </s>
+-0.1760913	a italian sausage
+-0.1760913	an italian sausage
+-0.1760913	and italian sausage
+-0.06694679	inch italian sausage
+-0.1249387	large italian sausage
+-0.09691001	medium italian sausage
+-0.03218468	sliced italian sausage
+-0.06694679	small italian sausage
+-0.1760913	with italian sausage
+-0.07918125	<s> i’d like
+-0.544068	and jalapeno peppers
+-0.4259687	with jalapeno peppers
+-0.1760913	and jalapenos </s>
+-0.1760913	and kicker hot
+-0.8129134	<s> large philly
+-1.59384	a large bacon
+-1.89487	a large barbeque
+-1.89487	a large beef
+-0.6518316	a large cheese
+-1.49693	a large chicken
+-1.89487	a large ham
+-1.59384	a large hand
+-1.89487	a large one
+-1.89487	a large pacific
+-1.241657	a large pepperoni
+-1.89487	a large philly
+-0.7645359	a large pizza
+-1.59384	a large spinach
+-1.718778	a large thin
+-1.718778	a large with
+-1.556303	extra large bacon
+-1.556303	extra large brooklyn
+-1.556303	extra large buffalo
+-1.033424	extra large cheese
+-1.334454	extra large chicken
+-1.732394	extra large crunchy
+-1.732394	extra large gluten
+-1.556303	extra large pepperoni
+-1.431364	extra large philly
+-0.9542425	extra large pizza
+-1.079181	extra large pizzas
+-1.556303	extra large spinach
+-1.732394	extra large thin
+-0.60206	five large cheese
+-0.60206	five large pizzas
+-1.380211	one large bbq
+-1.380211	one large buffalo
+-0.6398485	one large cheese
+-1.20412	one large pepperoni
+-1.079181	one large pizza
+-1.380211	one large sausage
+-1.130334	three large cheese
+-1.130334	three large mushroom
+-1.130334	three large pepperoni
+-0.9542425	three large pizzas
+-0.6307052	two large cheese
+-1.371068	two large ham
+-1.371068	two large hawaii
+-0.9731278	two large pepperoni
+-1.371068	two large pizzas
+-0.02996322	<s> let me
+-0.6368221	with light cheese
+-0.8129134	with light white
+-0.5362427	i'd like a
+-1.439333	i'd like an
+-1.740363	i'd like four
+-1.342423	i'd like one
+-1.740363	i'd like three
+-0.3601514	i'd like to
+-1.439333	i'd like two
+-0.1249387	id like to
+-0.6532125	i’d like a
+-0.4771213	i’d like to
+-0.6239618	would like a
+-1.609239	would like five
+-1.78533	would like four
+-1.308209	would like one
+-1.609239	would like six
+-1.609239	would like three
+-0.3459972	would like to
+-1.78533	would like twenty
+-1.4843	would like two
+-0.1760913	and mango habanero
+-0.07918125	sweet mango habanero
+-0.09691001	hearty marinara sauce
+-0.1249387	with marinara sauce
+-0.04275198	<s> may i
+-0.1760913	afternoon may i
+-0.1760913	hello may i
+-0.06694679	hi may i
+-0.544068	get me a
+-0.4121805	give me a
+-1.31527	give me an
+-1.31527	give me five
+-1.31527	give me four
+-1.31527	give me one
+-1.491362	give me ten
+-1.01424	give me three
+-1.190332	give me two
+-0.3756636	let me get
+-0.4336556	let me have
+-0.8325089	a medium cheese
+-1.70757	a medium crunchy
+-1.70757	a medium extra
+-1.70757	a medium honolulu
+-1.531479	a medium pacific
+-1.531479	a medium pepperoni
+-0.7298466	a medium pizza
+-1.70757	a medium thin
+-1.70757	a medium ultimate
+-1.70757	a medium with
+-0.39794	eight medium ham
+-0.544068	four medium cheese
+-1.20412	one medium beef
+-1.20412	one medium cheese
+-1.20412	one medium italian
+-1.20412	one medium pepperoni
+-0.90309	one medium philly
+-1.20412	one medium pizza
+-1.060698	three medium cheese
+-0.8846066	three medium pizzas
+-0.6746107	two medium cheese
+-1.414973	two medium fiery
+-1.113943	two medium pepperoni
+-1.017033	two medium pizzas
+-1.238882	two medium spinach
+-0.1249387	a memphis bbq
+-0.1760913	large memphis bbq
+-0.1760913	double mushroom </s>
+-0.243038	medium mushroom pizzas
+-0.544068	with mushroom and
+-0.3273589	and mushrooms </s>
+-0.9294189	and mushrooms on
+-0.9294189	and mushrooms please
+-0.1760913	spinach mushrooms and
+-0.5563025	with mushrooms </s>
+-0.5563025	with mushrooms and
+-0.9542425	with mushrooms onions
+-1.255273	with mushrooms peppers
+-0.1760913	<s> my order
+-0.1760913	want nine small
+-0.6368221	with no cheese
+-0.5118834	with no sauce
+-0.2632414	and olives </s>
+-0.50515	black olives </s>
+-0.4637573	black olives and
+-1.20412	black olives banana
+-0.7781513	with olives </s>
+-0.7781513	with olives and
+-0.39794	asiago on top
+-0.39794	pepperoni on the
+-0.544068	peppers on top
+-1.161368	<s> one extra
+-0.6173	<s> one large
+-1.064458	<s> one medium
+-1.161368	<s> one pacific
+-0.5081555	<s> one small
+-0.6690068	and one large
+-0.748188	and one medium
+-0.845098	and one with
+-0.5118834	get one large
+-0.6368221	get one small
+-0.8750613	have one extra
+-0.69897	have one large
+-0.69897	have one small
+-1	like one extra
+-1	like one large
+-0.39794	on one side
+-0.90309	order one medium
+-0.4259687	order one small
+-0.544068	pizza one medium
+-0.1760913	pizzas one with
+-0.544068	want one small
+-0.20412	and onion pizza
+-0.2138798	and onions </s>
+-0.544068	grilled onions </s>
+-0.09691001	mushrooms onions and
+-0.30103	peppers onions and
+-0.4771213	with onions </s>
+-0.4771213	with onions and
+-1.217484	with onions please
+-0.5698753	i order a
+-1.113943	i order an
+-0.8129134	i order two
+-0.1760913	my order is
+-0.3176717	to order a
+-1.822822	to order an
+-1.64673	to order five
+-1.64673	to order four
+-1.123852	to order one
+-1.64673	to order six
+-1.822822	to order sixteen
+-1.822822	to order ten
+-1.3457	to order three
+-0.9777236	to order two
+-0.39794	wanna order a
+-0.1760913	a pacific veggie
+-0.1249387	large pacific veggie
+-0.1249387	medium pacific veggie
+-0.09691001	one pacific veggie
+-0.09691001	small pacific veggie
+-0.1760913	three pacific veggie
+-0.7781513	handmade pan cheese
+-0.30103	handmade pan pizza
+-0.7403627	shredded parmesan </s>
+-0.5642715	shredded parmesan asiago
+-0.06694679	alfredo pasta sauce
+-0.8750613	and pepper pizzas
+-0.1346986	and pepper trio
+-0.1760913	a pepperoni pizza
+-0.447158	and pepperoni </s>
+-0.6690068	and pepperoni pizza
+-0.1760913	beef pepperoni and
+-0.39794	extra pepperoni on
+-0.845098	large pepperoni and
+-0.243038	large pepperoni pizza
+-0.748188	large pepperoni pizzas
+-0.845098	medium pepperoni and
+-0.544068	medium pepperoni pizza
+-0.447158	medium pepperoni pizzas
+-0.3222193	small pepperoni pizza
+-0.6232493	small pepperoni pizzas
+-0.1760913	tossed pepperoni pizza
+-0.544068	two pepperoni pizzas
+-0.2498775	ultimate pepperoni feast
+-0.39794	with pepperoni </s>
+-0.3565473	with pepperoni and
+-0.1760913	and peppers </s>
+-0.6320232	banana peppers </s>
+-0.4771213	banana peppers and
+-1.176091	banana peppers onions
+-0.4449366	green peppers </s>
+-0.8129134	green peppers and
+-1.290035	green peppers onions
+-1.113943	green peppers please
+-0.1760913	grilled peppers </s>
+-0.1760913	half peppers half
+-0.69897	jalapeno peppers </s>
+-0.39794	jalapeno peppers and
+-0.763428	red peppers </s>
+-0.559308	red peppers and
+-0.39794	with peppers and
+-0.3521825	a philly cheese
+-0.4771213	a philly steak
+-0.07918125	and philly steak
+-0.69897	large philly cheese
+-0.2218488	large philly steak
+-0.20412	medium philly cheese
+-0.1760913	one philly cheese
+-0.39794	small philly cheese
+-0.05799195	with philly steak
+-0.1760913	plain pie with
+-0.3590219	and pineapple </s>
+-0.7269987	and pineapple pizza
+-0.1760913	double pineapple </s>
+-0.1760913	sauce pineapple and
+-0.1760913	small pineapple pizza
+-0.7533277	with pineapple </s>
+-0.3273589	with pineapple and
+-0.243038	and pineapples </s>
+-0.69897	a pizza </s>
+-0.2730013	a pizza with
+-0.1760913	artisan pizza please
+-0.3679768	bacon pizza </s>
+-0.544068	bacon pizza with
+-0.1760913	barbecue pizza </s>
+-0.5563025	beef pizza </s>
+-0.9542425	beef pizza and
+-0.4771213	beef pizza with
+-0.4259687	carbonara pizza </s>
+-0.4359739	cheese pizza </s>
+-1.127645	cheese pizza and
+-1.127645	cheese pizza please
+-0.387282	cheese pizza with
+-0.6139592	chicken pizza </s>
+-1.267172	chicken pizza one
+-1.267172	chicken pizza please
+-0.3129292	chicken pizza with
+-1.079181	crust pizza </s>
+-0.1760913	crust pizza with
+-0.154902	dish pizza with
+-0.5006024	feast pizza </s>
+-0.9777236	feast pizza please
+-0.9777236	feast pizza with
+-0.2340832	feta pizza </s>
+-0.09691001	free pizza with
+-0.4393327	ham pizza with
+-0.4057654	hawaiian pizza </s>
+-0.9700368	hawaiian pizza and
+-1.146128	hawaiian pizza please
+-0.544068	hawaiian pizza with
+-0.1760913	inch pizza with
+-1.221849	large pizza </s>
+-0.08618615	large pizza with
+-0.08894108	medium pizza with
+-0.39794	mushroom pizza with
+-0.39794	mushrooms pizza with
+-0.4259687	onion pizza </s>
+-0.7403627	pan pizza </s>
+-0.3424227	pan pizza with
+-0.4065402	pepperoni pizza </s>
+-1.10551	pepperoni pizza and
+-0.3651475	pepperoni pizza with
+-0.20412	pineapple pizza with
+-0.09691001	plain pizza </s>
+-0.7403627	ranch pizza please
+-0.1760913	regular pizza </s>
+-0.4393327	salami pizza with
+-0.4259687	sauce pizza with
+-0.5835766	sausage pizza </s>
+-0.7596679	sausage pizza and
+-0.5835766	sausage pizza with
+-1.156347	small pizza </s>
+-0.1019895	small pizza with
+-0.1760913	spinach pizza with
+-0.7923917	steak pizza </s>
+-1.190332	steak pizza and
+-1.190332	steak pizza thank
+-0.4913617	steak pizza with
+-0.09691001	style pizza with
+-0.1760913	topping pizza please
+-0.39794	veggie pizza </s>
+-0.5228788	veggie pizza with
+-0.30103	bacon pizzas </s>
+-0.39794	beef pizzas with
+-0.4964264	cheese pizzas </s>
+-1.361728	cheese pizzas and
+-1.361728	cheese pizzas please
+-1.537819	cheese pizzas thanks
+-0.3617278	cheese pizzas with
+-0.69897	chicken pizzas </s>
+-0.30103	chicken pizzas with
+-0.1760913	crust pizzas with
+-0.39794	dish pizzas with
+-0.544068	feast pizzas with
+-0.4259687	feta pizzas </s>
+-0.1249387	free pizzas with
+-0.1760913	ham pizzas with
+-0.5228788	hawaiian pizzas </s>
+-0.5228788	hawaiian pizzas with
+-0.06694679	large pizzas with
+-0.8750613	medium pizzas </s>
+-0.8750613	medium pizzas please
+-0.39794	medium pizzas with
+-0.3424227	mushroom pizzas </s>
+-0.7403627	mushroom pizzas with
+-0.1760913	olive pizzas </s>
+-0.4929155	pepperoni pizzas </s>
+-0.4057654	pepperoni pizzas with
+-0.30103	plain pizzas </s>
+-0.1760913	ranch pizzas with
+-0.4259687	sauce pizzas </s>
+-0.4259687	sauce pizzas with
+-0.845098	sausage pizzas </s>
+-0.544068	sausage pizzas please
+-0.6690068	sausage pizzas with
+-0.2632414	small pizzas with
+-0.1760913	spinach pizzas with
+-0.6532125	steak pizzas with
+-0.1249387	style pizzas with
+-0.4393327	veggie pizzas </s>
+-0.5642715	veggie pizzas with
+-0.30103	a plain pizza
+-0.39794	large plain pie
+-0.1760913	two plain pizzas
+-0.04139268	<s> please give
+-0.07918125	cheese please </s>
+-0.1249387	feast please </s>
+-0.1760913	ham please </s>
+-0.7160034	i please get
+-0.1362197	i please have
+-0.1249387	mushrooms please </s>
+-0.1760913	one please </s>
+-0.09691001	onions please </s>
+-0.07918125	peppers please </s>
+-0.03300026	pizza please </s>
+-0.07058107	pizzas please </s>
+-0.05799195	sauce please </s>
+-0.1249387	spinach please </s>
+-0.1760913	steak please </s>
+-0.07918125	tomatoes please </s>
+-0.60206	trio please extra
+-0.60206	trio please no
+-0.1249387	veggie please </s>
+-0.1760913	medium premium chicken
+-0.60206	shredded provolone </s>
+-0.30103	shredded provolone cheese
+-0.7403627	sliced provolone </s>
+-0.5642715	sliced provolone and
+-0.1760913	and ranch dressing
+-0.4259687	bacon ranch pizza
+-0.90309	bacon ranch pizzas
+-0.1119738	roasted red peppers
+-0.1760913	with red peppers
+-0.4771213	and roasted red
+-0.39794	and roasted veggie
+-0.05115252	with roasted red
+-0.4771213	and salami </s>
+-0.4771213	and salami pizza
+-0.05799195	tuscan salami and
+-0.3802112	with salami </s>
+-0.60206	with salami and
+-0.544068	alfredo sauce </s>
+-0.544068	barbeque sauce </s>
+-0.3679768	barbeque sauce and
+-0.5228788	bbq sauce </s>
+-0.09691001	cheese sauce </s>
+-0.3802112	extra sauce </s>
+-0.30103	habanero sauce </s>
+-0.7781513	habanero sauce pizzas
+-0.4449366	hot sauce </s>
+-0.7459666	hot sauce and
+-1.290035	hot sauce pizzas
+-0.9890046	hot sauce please
+-0.39794	light sauce </s>
+-0.4771213	marinara sauce </s>
+-0.5740313	marinara sauce and
+-0.6532125	no sauce </s>
+-0.20412	pasta sauce </s>
+-0.1760913	tomato sauce </s>
+-0.3467875	white sauce </s>
+-0.1760913	a sausage pizza
+-0.09691001	and sausage pizzas
+-1.033424	italian sausage </s>
+-0.4101745	italian sausage and
+-0.6910011	italian sausage pizza
+-1.255273	italian sausage pizzas
+-0.4259687	large sausage pizza
+-0.39794	small sausage pizza
+-0.1760913	two sausage pizzas
+-0.544068	with sausage </s>
+-0.3679768	with sausage and
+-0.1760913	have seven medium
+-0.69897	and shredded parmesan
+-0.39794	and shredded provolone
+-0.4259687	with shredded parmesan
+-0.1760913	one side and
+-0.39794	like six chicken
+-0.08432089	wisconsin six cheese
+-0.544068	and sliced italian
+-0.3679768	and sliced provolone
+-0.1760913	medium sliced italian
+-0.3357921	with sliced italian
+-0.6368221	with sliced provolone
+-0.8129134	<s> small beef
+-1.681241	a small bacon
+-1.857332	a small brooklyn
+-0.7966347	a small cheese
+-1.556303	a small chicken
+-1.857332	a small deluxe
+-1.857332	a small fiery
+-1.556303	a small gluten
+-1.681241	a small ham
+-1.556303	a small handmade
+-1.459392	a small pepperoni
+-1.857332	a small philly
+-1.857332	a small pineapple
+-0.6670008	a small pizza
+-1.681241	a small spinach
+-0.39794	eight small italian
+-0.6532125	five small pizza
+-0.6532125	four small gluten
+-1.431364	one small bacon
+-0.9542425	one small cheese
+-1.431364	one small fiery
+-1.033424	one small pepperoni
+-1.130334	one small pizza
+-1.255273	one small thin
+-0.7533277	three small cheese
+-0.9294189	three small pizza
+-0.916454	two small cheese
+-1.217484	two small italian
+-1.041393	two small pacific
+-1.217484	two small pepperoni
+-1.041393	two small pizzas
+-0.544068	a spinach and
+-0.4522977	and spinach </s>
+-0.9294189	and spinach pizzas
+-0.9294189	and spinach please
+-0.39794	extra spinach on
+-0.05115252	large spinach and
+-0.07918125	medium spinach and
+-0.09691001	small spinach and
+-0.6283889	with spinach </s>
+-0.4522977	with spinach and
+-0.9294189	with spinach mushrooms
+-0.2632414	cheese steak pizza
+-1.041393	cheese steak pizzas
+-0.6863809	philly steak </s>
+-1.054358	philly steak and
+-0.4900862	philly steak pizza
+-1.054358	philly steak pizzas
+-1.190332	brooklyn style and
+-1.190332	brooklyn style cheese
+-0.7923917	brooklyn style crust
+-0.8893017	brooklyn style pizza
+-1.01424	brooklyn style pizzas
+-0.09691001	and sweet mango
+-0.154902	a ten inch
+-0.1760913	cheese thank you
+-0.1249387	olives thank you
+-0.06694679	pizza thank you
+-0.1760913	cheese thanks </s>
+-0.07918125	pizza thanks </s>
+-0.30103	pizzas thanks </s>
+-0.1249387	and the other
+-0.6368221	on the other
+-0.8129134	on the top
+-0.1249387	and then a
+-0.09017663	crunchy thin crust
+-0.07918125	large thin crust
+-0.1760913	medium thin crust
+-0.1760913	on thin crust
+-0.09691001	small thin crust
+-0.39794	<s> thirteen extra
+-0.7781513	<s> three large
+-0.7781513	<s> three medium
+-0.845098	and three large
+-0.544068	and three small
+-0.4259687	get three large
+-0.69897	have three medium
+-0.8750613	have three small
+-0.6532125	like three large
+-0.60206	me three medium
+-0.60206	order three large
+-0.60206	want three large
+-0.60206	want three medium
+-0.69897	going to get
+-0.39794	going to have
+-1.053078	like to get
+-0.9391351	like to have
+-0.1236595	like to order
+-0.69897	want to get
+-0.79588	want to have
+-0.236572	want to order
+-0.1760913	inspired tomato sauce
+-0.39794	and tomatoes please
+-0.69897	diced tomatoes </s>
+-0.7781513	diced tomatoes and
+-1.176091	diced tomatoes on
+-1	diced tomatoes please
+-0.2498775	on top </s>
+-0.1760913	the top </s>
+-0.845098	hand tossed cheese
+-1.066947	hand tossed crust
+-1.243038	hand tossed pepperoni
+-1.243038	hand tossed pizza
+-1.243038	hand tossed sliced
+-0.9294189	pepper trio pizza
+-0.5314789	pepper trio please
+-0.6532125	and triple cheese
+-0.1760913	large tuscan salami
+-0.1760913	small tuscan salami
+-0.05799195	a twelve inch
+-0.7132105	<s> two large
+-0.6462637	<s> two medium
+-0.7923917	<s> two small
+-0.7781513	and two large
+-0.4771213	and two small
+-0.9378521	get two large
+-0.7160034	get two medium
+-0.5698753	get two small
+-1.278754	have two large
+-0.4658403	have two medium
+-1.278754	have two plain
+-0.6690068	like two medium
+-0.845098	like two pepperoni
+-0.845098	like two small
+-1.09691	order two extra
+-0.552842	order two large
+-0.79588	order two medium
+-1.09691	order two twelve
+-0.1760913	us two large
+-0.1962947	want two large
+-0.7403627	want two medium
+-0.1249387	large ultimate pepperoni
+-0.09691001	medium ultimate pepperoni
+-0.6690068	<s> um hi
+-0.1760913	large veggie pizza
+-0.3802112	pacific veggie pizza
+-0.60206	pacific veggie pizzas
+-0.90309	pacific veggie please
+-0.6532125	roasted veggie </s>
+-0.4771213	roasted veggie pizza
+-0.1249387	i wanna order
+-0.494022	i want a
+-1.272173	i want an
+-1.816241	i want nine
+-1.515211	i want one
+-1.418301	i want three
+-0.4640588	i want to
+-1.163029	i want two
+-0.544068	<s> we want
+-0.1760913	extra white sauce
+-0.1760913	light white sauce
+-0.154902	with white sauce
+-0.1760913	i will order
+-0.07918125	a wisconsin six
+-0.1760913	medium wisconsin six
+-0.1249387	small wisconsin six
+-0.1760913	the wisconsin six
+-0.69897	feast with extra
+-0.8750613	feast with light
+-0.9777236	one with pepperoni
+-2.123852	pizza with a
+-1.998913	pizza with alfredo
+-2.123852	pizza with american
+-1.3457	pizza with bacon
+-1.521792	pizza with banana
+-2.299943	pizza with barbecue
+-2.299943	pizza with barbeque
+-1.64673	pizza with beef
+-1.600973	pizza with black
+-2.123852	pizza with brooklyn
+-2.123852	pizza with buffalo
+-2.299943	pizza with cheddar
+-1.755875	pizza with cheese
+-1.697883	pizza with chicken
+-1.902003	pizza with diced
+-1.521792	pizza with double
+-1.123852	pizza with extra
+-2.123852	pizza with feta
+-1.822822	pizza with garlic
+-1.755875	pizza with green
+-2.299943	pizza with half
+-1.454845	pizza with ham
+-1.697883	pizza with hot
+-1.902003	pizza with italian
+-2.123852	pizza with jalapeno
+-2.123852	pizza with light
+-2.123852	pizza with marinara
+-2.299943	pizza with mushroom
+-1.278754	pizza with mushrooms
+-2.299943	pizza with mushrooms,
+-1.998913	pizza with no
+-1.998913	pizza with olives
+-1.3457	pizza with onions
+-1.521792	pizza with pepperoni
+-1.998913	pizza with philly
+-1.600973	pizza with pineapple
+-1.902003	pizza with roasted
+-1.697883	pizza with salami
+-1.902003	pizza with sausage
+-2.299943	pizza with shredded
+-1.902003	pizza with sliced
+-1.600973	pizza with spinach
+-1.902003	pizza with white
+-1.792392	pizzas with alfredo
+-1.968483	pizzas with american
+-1.424415	pizzas with bacon
+-1.570543	pizzas with banana
+-1.968483	pizzas with beef
+-1.968483	pizzas with black
+-1.570543	pizzas with cheese
+-1.968483	pizzas with chicken
+-1.491362	pizzas with diced
+-1.792392	pizzas with double
+-1.570543	pizzas with extra
+-1.667453	pizzas with feta
+-1.491362	pizzas with green
+-1.968483	pizzas with half
+-1.31527	pizzas with ham
+-1.792392	pizzas with hot
+-1.792392	pizzas with light
+-1.424415	pizzas with mushrooms
+-1.968483	pizzas with olives
+-1.792392	pizzas with onion
+-1.366423	pizzas with onions
+-1.424415	pizzas with pepperoni
+-1.968483	pizzas with roasted
+-1.968483	pizzas with shredded
+-1.667453	pizzas with sliced
+-1.968483	pizzas with white
+-0.01947835	i would like
+-0.1249387	an x large
+-0.39794	can you get
+-0.69897	can you give
+-0.39794	could you please
+-0.0211893	thank you </s>
 
 \end\

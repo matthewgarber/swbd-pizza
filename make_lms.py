@@ -4,10 +4,10 @@ pizza_lm = sys.argv[1]
 swbd_lm = sys.argv[2]
 
 #make pizza lm
-os.system('~/srilm-1.7.1/bin/macosx/ngram-count -unk -map-unk -text {} -lm pizza_trigram.lm -wbdiscount'.format(pizza_lm))
+os.system('~/srilm-1.7.1/bin/macosx/ngram-count -text {} -unk -map-unk -order 3 -lm pizza_trigram.lm -wbdiscount'.format(pizza_lm))
 
 #make swbd lm
-os.system('~/srilm-1.7.1/bin/macosx/ngram-count -unk -map-unk -order 4 -text {} -lm swbd_4gram.lm -wbdiscount'.format(swbd_lm))
+os.system('~/srilm-1.7.1/bin/macosx/ngram-count -text {} -unk -map-unk -order 4 -lm swbd_4gram.lm -wbdiscount'.format(swbd_lm))
 
 #combine lm into one text file
 pizzafile = open(pizza_lm, 'r')
