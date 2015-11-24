@@ -19,7 +19,7 @@ for line in text_file.readlines():
     utt_id = match.group(0)
     speaker_id = match.group(1)
     lines.append(" ".join([utt_id, speaker_id + "\n"]))
-utt2spk.writelines(lines)
+utt2spk.writelines(sorted(lines))
 
 utt2spk = open("data/devtest/pizza_tmp/utt2spk", "w")
 text_file = open("data/devtest/pizza_tmp/text")
@@ -30,4 +30,4 @@ for line in text_file.readlines():
     utt_id = match.group(0)
     speaker_id = match.group(1)
     lines.append(" ".join([utt_id, speaker_id + "\n"]))
-utt2spk.writelines(lines)
+utt2spk.writelines(sorted(lines))

@@ -36,7 +36,7 @@ for line_raw in train_raw.readlines():
     if speaker_match:
         utt_id = "".join([speaker_match.group(0), "-", utt_id])
     else:
-        utt_id = "unk"
+        utt_id = "".join(["unk-", rec_id])
     lines.append(" ".join([utt_id, rec_id, "0.00", length + "\n"]))
     wav.close()
 segments.writelines(lines)
@@ -55,7 +55,7 @@ for line_raw in dev_raw.readlines():
     if speaker_match:
         utt_id = "".join([speaker_match.group(0), "-", utt_id])
     else:
-        utt_id = "unk"
+        utt_id = "".join(["unk-", rec_id])
     lines.append(" ".join([utt_id, rec_id, "0.00", length + "\n"]))
     wav.close()
 segments.writelines(lines)
