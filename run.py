@@ -16,8 +16,9 @@ def train_deltas_cmd(align_dir, exp_dir):
     return command
 
 ## Data preparation.
-# Pizza transcripts have already been normalized due to discrepancies between the IDs at the
+# Pizza transcripts have already been partially edited due to discrepancies between the IDs at the
 # end of each utterance and the filenames that required manual adjustment.
+os.system("python pizza_textnorm.py train/transcript/pizza_train devtest/transcript/pizza_devtest lm/pizza_all")
 for dataset in ["train", "devtest"]:
     os.system("sh swbd-pizza_data_prep.sh " + dataset)
   
