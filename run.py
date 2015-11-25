@@ -35,7 +35,7 @@ os.system('bash utils/prepare_lang.sh data/dict "<unk>" data/local/lang data/lan
 
 ## Create language model.
 os.system("python swbd_lm_textnorm.py lm/swbd_all lm/swbd_all_clean")
-os.system("python make_lms.py lm/pizza_all lm/swbd_all_clean")
+os.system("python make_lms.py lm/lm_clean lm/swbd_all_clean")
 lm_name = "combined_4gram.lm"
 os.system("gzip " + lm_name)
 
